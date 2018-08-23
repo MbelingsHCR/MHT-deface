@@ -1,16 +1,8 @@
-http://anrwiki.blogspot.com
-
-   _     _     _     _     _     _     _     _  
-  / \   / \   / \   / \   / \   / \   / \   / \ 
- ( T ) ( U ) ( T ) ( O ) ( R ) ( I ) ( A ) ( L )
-  \_/   \_/   \_/   \_/   \_/   \_/   \_/   \_/ 
-
-
 cara install :
 
 $ apt update && apt upgrade -y
 $ apt install git
-$ git clone https://github.com/Amriez/AOCDEFACE
+$ git clone https://github.com/21D4N404/Defacer
 
 fitur yang tersedia :
 ~01.Deface
@@ -21,9 +13,7 @@ fitur yang tersedia :
 cara pakai :
 
 ~01.Deface 
-pertama :
-kalian siapkan dulu dork nyah :v 
--contoh :
+Dork:
 intitle:”index.of” intext:”(Win32) DAV/2″ intext:”Apache” 
 intitle:”index.of” intext:”(Win32) DAV/2″ intext:”Apache” site:edu 
 intitle:”index.of” intext:”(Win32) DAV/2″ intext:”Apache” site:gov 
@@ -42,19 +32,12 @@ cari di google
 -kedua lalu cari web nyah dengan dork tadi di search engine kalian :v
 
 lalu kalian buka AOCdeface nyah
-cd AOCDEFACE
-sh AOC.sh
 
 ketik A
+Masukan target
+Kemudian kalian masukan SC kalian dengan nama index.html
 
-lalu kalian masukan script deface nyah :v
-ingat script deface harus ada di memory internal :v
-jika sudah
-
-masukan web tadi :v
-
-web harus benar-benar sudah vulnerability :v
-jika tidak...kemungkinan gagal...
+Kalo berhasil tertebas muncul link target di bawah
 
 ~02.Takescript
 ambil script deface orang lain:v
@@ -70,12 +53,11 @@ lalu masukan web nyah :v
 
 ~03.DEFACE-MASS-EXPLOIT
 
-sama seperti deface di atas
-deface yang satu ini untuk mendeface lebih dari satu
-tapi sayang nyah kategori ini hanya mencakup 20 deface sajah 🙏
+Yg ini sama dengan yg No: 1 cuma bedanya yg ini Deface 20 website secara bersamaan
+Cara menggunakannya
 
-buka AOCdeface
-cd AOCDEFACE
+buka Defacer
+cd Defacer
 sh AOC.sh
 
 ketik C
