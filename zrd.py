@@ -6,11 +6,7 @@ def Space(j):
                 print " ",
                 i+=1 
 def banner():
-	print("\033[95m ___ _                      _                 _ _ _   __  _ _
- / __| |_  ___ _ __  ___  __| |      ____ _ __| | | | /  \| | |
-| (__| ' \/ -_) '  \/ _ \/ _` |     |_ / '_/ _` |_  _| () |_  _|
- \___|_||_\___|_|_|_\___/\__,_|__ __/__|_| \__,_| |_| \__/  |_|
-                             |___|___| ")
+	figlet -f small Chemod_zrd404
         
 	print("\033[93m IndoCyber copyright(c)		   ")
 	print("\033[96m http://generasicyberindo.blogspot.com	   ")
