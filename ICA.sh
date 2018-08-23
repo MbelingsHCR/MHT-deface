@@ -191,12 +191,6 @@ echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Qui
 read -p "[B/Q] " back
 fi
 
-if [ $apaan = "L" ] || [ $apaan = "t" ]
-then
-cat Livetarget.txt
-echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
-read -p "[B/Q] " back
-fi
 
 if [ $apaan = "Q" ] || [ $apaan = "q" ]
 then
