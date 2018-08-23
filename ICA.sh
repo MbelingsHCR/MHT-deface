@@ -162,7 +162,7 @@ fi
 
 if [ $apaan = "3" ] || [ $apaan = "3" ]
 then
-python2 AMR.py
+python2 zrd.py
 exit
 fi
 
