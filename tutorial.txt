@@ -4,13 +4,12 @@ $ apt update && apt upgrade -y
 $ apt install git
 $ git clone https://github.com/21D4N404/Defacer
 $ cd Defacer
-$sh ICA.sh
+$ sh ICA.sh
 
 fitur yang tersedia :
 ~01.Deface
-~02.Ambil script deface orang lain
-~03.Deface-mass-exploit
-~04.Admin-panel-finder
+~02.Deface-mass-exploit
+~03.Admin-panel-finder
 
 cara pakai :
 
