@@ -23,7 +23,7 @@ echo $purple"___________________________________________________"
 echo $red"	~"$cyan"{"$white"1"$cyan"}"$white".Deface"$cyan"     {"$white"Q"$cyan"}"$white"Quit "
 echo $red"	~"$cyan"{"$white"2"$cyan"}"$white".Takescript"$cyan" {"$white"I"$cyan"}"$white"Info "
 echo $red"	~"$cyan"{"$white"3"$cyan"}"$white".Exploit"$cyan"    
-echo $red"  ~"$cyan"{"$white"4"$cyan"}"$white".AdminLogin"$cyan
+echo $red"  ~"$cyan"{"$white"4"$cyan"}"$white".AdminLogin"$cyan"
 echo $purple"___________________________________________________"
 echo $red"	~"$cyan"{"$white"T"$cyan"}"$white".TUTORIAL"$cyan
 echo $purple"___________________________________________________"
