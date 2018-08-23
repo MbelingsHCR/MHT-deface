@@ -20,10 +20,10 @@ echo $cyan" ["$red"+"$cyan"]Github	: https://github.com/21D4N404"
 echo $cyan" ["$white"NOTE : Simpan script di memory internal"$cyan"]"
 echo $cyan" ["$white"Di luar folder jngan di dalam folder"$cyan"]"
 echo $purple"___________________________________________________"
-echo $red"	~"$cyan"{"$white"1"$cyan"}"$white".Deface"$cyan"
-echo $red"	~"$cyan"{"$white"2"$cyan"}"$white".Exploit"$cyan
-echo $red"	~"$cyan"{"$white"3"$cyan"}"$white".AdminLogin"$cyan
-echo $red"  ~"$cyan"{"$white"Q"$cyan"}"$white".Quit"$cyan
+echo $red"	~"$cyan"{"$white"A"$cyan"}"$white".Deface"$cyan"		{"$white"Q"$cyan"}"$white"Quit "
+echo $red"	~"$cyan"{"$white"B"$cyan"}"$white".Takescript"$cyan"
+echo $red"	~"$cyan"{"$white"C"$cyan"}"$white".Exploit"$cyan
+echo $red"	~"$cyan"{"$white"D"$cyan"}"$white".AdminLogin"$cyan
 echo $purple"___________________________________________________"
 echo $red"	~"$cyan"{"$white"T"$cyan"}"$white".TUTORIAL"$cyan
 echo $purple"___________________________________________________"
@@ -190,7 +190,6 @@ cat tutorial.txt
 exit
 fi
 
-
 if [ $apaan = "Q" ] || [ $apaan = "q" ]
 then
 echo " :) "
@@ -201,7 +200,7 @@ fi
 
 if [ $back = "B" ] || [ $back = "b" ]
 then
-sh ARM.sh
+sh AOC.sh
 fi
 
 if [ $back = "Q" ] || [ $back = "q" ]
