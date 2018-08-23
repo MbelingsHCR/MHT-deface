@@ -202,7 +202,7 @@ fi
 
 if [ $back = "B" ] || [ $back = "b" ]
 then
-sh ICA.sh
+sh ARM.sh
 fi
 
 if [ $back = "Q" ] || [ $back = "q" ]
