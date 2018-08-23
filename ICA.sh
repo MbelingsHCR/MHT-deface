@@ -34,7 +34,7 @@ then
 echo "                                          "
 figlet -f future Deface Tebas Index
 echo $red "Masukan Target Kalian !!!! "
-
+echo
 echo $yellow "Live Target"
 echo $white "http://contsol.co.za"
 echo $cyan "http://colourfactory.co.za"
@@ -42,8 +42,8 @@ echo $white "http://chillibitez.co.za"
 echo $cyan "http://chasingfantasia.com"
 echo $white "http://centraltech.co.za"
 echo $cyan "http://cblandscapes.co.za"
-
-
+echo
+echo
 echo $green "╭─"$blue"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  target
 echo $green "Masukan Script !!!! "
