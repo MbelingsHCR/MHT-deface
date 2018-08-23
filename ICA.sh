@@ -48,6 +48,7 @@ echo
 echo $red "Eksekusi Taarget!!!"
 echo $green "╭─"$blue"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  target
+echo
 echo $green "Masukan Script !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Nama SC Harus(index.html)"$white
 read -p " ╰─$ "  script
@@ -65,6 +66,7 @@ figlet -f future Nyolong Script Orang
 echo $green "Masukan Target !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  target
+echo
 echo $green "Simpan dengan nama?? (Contoh: script.html)"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Colong"$white
 read -p " ╰─$ " simpan
@@ -85,6 +87,7 @@ echo
 echo "Masukan Script !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white                               
 read -p " ╰─$ " script
+echo
 echo "Masukan Target1 !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Crot"$white
 read -p " ╰─$ " target1
