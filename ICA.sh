@@ -177,7 +177,7 @@ fi
 
 if [ $apaan = "D" ] || [ $apaan = "d" ]
 then
-python2 zrd.py
+cat zrd.py
 exit
 fi
 
