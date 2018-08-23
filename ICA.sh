@@ -23,7 +23,7 @@ echo $purple"___________________________________________________"
 echo $red"	~"$cyan"{"$white"1"$cyan"}"$white".Deface"$cyan"     {"$white"Q"$cyan"}"$white"Quit "
 echo $red"	~"$cyan"{"$white"2"$cyan"}"$white".Takescript"$cyan" {"$white"I"$cyan"}"$white"Info "
 echo $red"	~"$cyan"{"$white"3"$cyan"}"$white".Exploit"$cyan"    
-echo $red"  ~"$cyan"{"$white"4"$cyan"}"$white".AdminLogin"$cyan"
+echo $red"  ~"$cyan"{"$white"4"$cyan"}"$white".AdminLogin"$cyan
 echo $purple"___________________________________________________"
 echo $red"	~"$cyan"{"$white"T"$cyan"}"$white".TUTORIAL"$cyan
 echo $purple"___________________________________________________"
@@ -34,7 +34,7 @@ if [ $apaan = "1" ] || [ $apaan = "1" ]
 then
 
 echo "                                          "
-figlet -f future Deface
+figlet -f "future Deface" | lolcat
 echo $green "Masukan Target !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  target
@@ -51,8 +51,8 @@ fi
 if [ $apaan = "2" ] || [ $apaan = "2" ]
 then
 echo $yellow
-figlet -f future "DEFACE-MASS"
-figlet -f future "EXPLOIT"
+figlet -f future "DEFACE-MASS" | lolcat
+figlet -f future "EXPLOIT" | lolcat
 echo "### ctrl + c to quit ###"
 echo "Masukan Script !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white                               
