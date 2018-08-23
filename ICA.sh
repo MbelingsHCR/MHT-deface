@@ -45,7 +45,7 @@ echo $white "http://centraltech.co.za"
 echo $cyan "http://cblandscapes.co.za"
 echo
 echo
-echo $red "Eksekusi Taarget"
+echo $red "Eksekusi Taarget!!!"
 echo $green "╭─"$blue"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  target
 echo $green "Masukan Script !!!! "
