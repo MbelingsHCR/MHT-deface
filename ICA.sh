@@ -50,7 +50,7 @@ if [ $apaan = "B" ] || [ $apaan = "b" ]
 then
 
 echo $yellow
-figlet -f future Pencuri
+figlet -f future Nyolong Script Orang
 echo $green "Masukan Target !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  target
