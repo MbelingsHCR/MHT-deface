@@ -6,19 +6,17 @@ def Space(j):
                 print " ",
                 i+=1 
 def banner():
-	print("\033[95m ______                  ____       ")
-	print("/\  _  \     /'\_/`\    /\  _`\     ")
-	print("\ \ \L\ \   /\      \   \ \ \L\ \   ")
-	print(" \ \  __ \  \ \ \__\ \   \ \ ,  /   ")
-	print("\033[00m  \ \ \/\ \  \ \ \_/\ \   \ \ \\ \  ")
-	print("   \ \_\ \_\  \ \_\\\ \_\   \ \_\\_\ ")
-	print("    \/_/\/_/   \/_/ \/_/    \/_//_/ ")
-	print("\033[93m AMRsystem copyright(c)		   ")
-	print("\033[96m http://anrwiki.blogspot.com	   ")
+	print("\033[95m   _ _                        _                 _ _ _   __  _ _")
+	print(" / __| |_  ___ _ __  ___  __| |      ____ _ __| | | | /  \| | |")
+	print("\033[00m| (__| ' \/ -_) '  \/ _ \/ _` |     |_ / '_/ _` |_  _| () |_  _|")
+	print(" \___|_||_\___|_|_|_\___/\__,_|__ __/__|_| \__,_| |_| \__/  |_|")
+        print("                             |___|___| ")
+	print("\033[93m IndoCyber copyright(c)		   ")
+	print("\033[96m http://generasicyberindo.blogspot.com	   ")
 def miminEA():
         f = open("coretetek.txt","r");
-        print("Masukin web nyah  \n(ex : pornhub.com atau www.pornhub.com ) ")
-        link = raw_input("AMR@root : ")
+        print("Masukin web nyah  \n(contoh : website.com atau www.website.com ) ")
+        link = raw_input("Chemod@zrd404 : ")
 	print "\033[92m \n\nlink admin : \n"
         while True:
                 sub_link = f.readline()
