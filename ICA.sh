@@ -185,9 +185,9 @@ if [ $apaan = "I" ] || [ $apaan = "i" ]
 then
 echo $red"################# INFO ####################"
 echo $indigo"__________________________________________"
-echo $green"AUTHOR : Chemod_zrd404			"
+echo $green"AUTHOR  : Chemod_zrd404			"
 echo $purple"GITHUB : https://github.com/21D4N404"
-echo $white"BLOG : http://generasicyberindo.blogspot.com"
+echo $white"BLOG    : http://generasicyberindo.blogspot.com"
 echo $yellow"		  THANKS TO : "
 echo $cyan"[+] MR.NAGON_TA7 & KOKO "
 echo $cyan"[+] MR.W3B_XIT "
