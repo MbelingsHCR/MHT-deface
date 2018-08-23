@@ -40,34 +40,68 @@ Kemudian kalian masukan SC kalian dengan nama index.html
 
 Kalo berhasil tertebas muncul link target di bawah
 
-~02.DEFACE-MASS-EXPLOIT
+LIVE TARGET TEBAS INDEX!!!
+
+http://contsol.co.za
+http://colourfactory.co.za
+http://chillibitez.co.za
+http://chasingfantasia.com
+http://centraltech.co.za
+http://cblandscapes.co.za
+http://bee-it.co.za
+http://butterflowers.co.za
+http://bananabox.co.za
+http://ayk.co.za
+http://ads247.co.za
+http://allpaint.co.za
+http://atlanticphysio.co.za
+http://valdicare.co.za
+http://vmicl.co.za
+http://troon.co.za
+http://nyarhi.co.za
+http://nitrobikes.co.za
+http://nhisa.co.za
+http://netcallcollect.co.za
+http://naturaleyeimages.com
+http://mpark.co.za
+http://moneyin1week.co.za
+http://mix007.co.za
+http://mediacube.co.za
+http://megro.co.za
+http://menogold.co.za
+http://mestern.co.za
+http://tcmgroup.co.za
+http://sublimeconfectionery.co.za
+http://tieronecapital.co.za
+http://thegiftstore.co.za
+http://thefoundation.co.za
+http://tressor.co.za
+
+
+
+
+~02.Colong Script
+Tools ini di rancang buat maling khususnya si pencuri Script😂
+Caranya mudah kalian tinggal buka Tools Defacer kemudian kalian ketik "B" setelah itu masukan website target yg sudah di deface yg mau kalian colong SC nya
+kemudian kalian namai SC tsb dan selesai SC akan tersimpan di memori internal
+
+
+
+
+~03.AUTO DEFACE 20
 
 Yg ini sama dengan yg No: 1 cuma bedanya yg ini Deface 20 website secara bersamaan
 Cara menggunakannya
 
-buka Defacer
+buka tools Defacer
 cd Defacer
 sh ICA.sh
 
-ketik 2
+ketik C
 
-~03.ADMIN-LOGIN-FINDER
+Kemudian Masukan SC deface kalian, Setelah itu di suruh memasukan target, kalian masukan target kaliankemudian klik enter dan seterusnya begitu😂
 
-ini adalah tools untuk mencari admin login sebuah website
-ini tergolong kategori bypass-admin
-tapi cuman scan nyah doang
 
-buka AOCdeface
-cd Defacer
-sh ICA.sh
 
-ketik 3
-
-lalu masukan website yang mau di scann nyah
-
-dan tunggu 
-
-sudah segituh sajah tutorial nyahh 
-
-maaf bila ada kesalahan atau kekurangan😂
+Mohon maaf bila ada kesalahan atau kekurangan😂
 
