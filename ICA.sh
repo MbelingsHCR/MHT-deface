@@ -23,10 +23,9 @@ echo $purple"___________________________________________________"
 echo $red"	~"$cyan"{"$white"1"$cyan"}"$white".Deface"$cyan"
 echo $red"	~"$cyan"{"$white"2"$cyan"}"$white".Exploit"$cyan
 echo $red"	~"$cyan"{"$white"3"$cyan"}"$white".AdminLogin"$cyan
-echo $red"  ~"$cyan"{"$white"Q"$cyan"}"$white"Quit "
+echo $red"  ~"$cyan"{"$white"Q"$cyan"}"$white".Quit"$cyan
 echo $purple"___________________________________________________"
 echo $red"	~"$cyan"{"$white"T"$cyan"}"$white".TUTORIAL"$cyan
-echo $red"	~"$cyan"{"$white"L"$cyan"}"$white".LIVETARGET"$cyan
 echo $purple"___________________________________________________"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  apaan
