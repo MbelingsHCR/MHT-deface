@@ -3,6 +3,8 @@ cara install :
 $ apt update && apt upgrade -y
 $ apt install git
 $ git clone https://github.com/21D4N404/Defacer
+$ cd Defacer
+$sh ICA.sh
 
 fitur yang tersedia :
 ~01.Deface
@@ -33,52 +35,40 @@ cari di google
 
 lalu kalian buka AOCdeface nyah
 
-ketik A
+ketik 1
 Masukan target
 Kemudian kalian masukan SC kalian dengan nama index.html
 
 Kalo berhasil tertebas muncul link target di bawah
 
-~02.Takescript
-ambil script deface orang lain:v
-
-pertama kalian harus ada target web yang sedang terkena deface :v
-lalu kalian buka AOCdeface nyah
-cd AOCDEFACE
-sh AOC.sh
-
-ketik B
-
-lalu masukan web nyah :v
-
-~03.DEFACE-MASS-EXPLOIT
+~02.DEFACE-MASS-EXPLOIT
 
 Yg ini sama dengan yg No: 1 cuma bedanya yg ini Deface 20 website secara bersamaan
 Cara menggunakannya
 
 buka Defacer
 cd Defacer
-sh AOC.sh
+sh ICA.sh
 
-ketik C
+ketik 2
 
-~04.ADMIN-LOGIN-FINDER
+~03.ADMIN-LOGIN-FINDER
 
 ini adalah tools untuk mencari admin login sebuah website
 ini tergolong kategori bypass-admin
-tapi cuman scan nyah doang :v
+tapi cuman scan nyah doang
 
 buka AOCdeface
-cd AOCDEFACE
-sh AOC.sh
+cd Defacer
+sh ICA.sh
 
-ketik D
+ketik 3
 
-lalu masukan website yang mau di scann nyah :v
+lalu masukan website yang mau di scann nyah
 
 dan tunggu 
 
 sudah segituh sajah tutorial nyahh 
 
-maaf bila ada kesalahan :v
+maaf bila ada kesalahan atau kekurangan😂
 
