@@ -60,7 +60,7 @@ figlet -f future Nyolong Script Orang
 echo $green "Masukan Target !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  target
-echo $green "Simpan dengan nama??(ex: script.html)"
+echo $green "Simpan dengan nama?? (Contoh: script.html)"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Colong"$white
 read -p " ╰─$ " simpan
 curl -o $simpan $target
