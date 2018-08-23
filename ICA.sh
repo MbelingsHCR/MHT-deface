@@ -19,15 +19,14 @@ echo $cyan" ["$red"+"$cyan"]Blog        : http://generasicyberindo.blogspot.com"
 echo $cyan" ["$red"+"$cyan"]Github	: https://github.com/21D4N404"
 echo $cyan" ["$white"NOTE : simpan script di memory internal di luar folder  "$cyan"]"
 echo $purple"___________________________________________________"
-echo $red"	~"$cyan"{"$white"A"$cyan"}"$red".Tebas Index"$cyan"   {"$white"Q"$cyan"}"$red"Quit "
-echo $red"	~"$cyan"{"$white"B"$cyan"}"$red".Colong Script"$cyan" {"$white"I"$cyan"}"$red"Info "
-echo $red"	~"$cyan"{"$white"C"$cyan"}"$red".Exploit"$cyan
-echo $red"	~"$cyan"{"$white"D"$cyan"}"$red".AdminLogin"$cyan
-echo $purple"___________________________________________________"
-
+echo $red"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index"$cyan"   {"$white"Q"$cyan"}"$red"Quit "
+echo $red"	~"$cyan"{"$white"B"$cyan"}"$green".Colong Script"$cyan" {"$white"I"$cyan"}"$red"Info "
+echo $red"	~"$cyan"{"$white"C"$cyan"}"$green".Exploit"$cyan
+echo $red"	~"$cyan"{"$white"D"$cyan"}"$green".AdminLogin"$cyan
+echo $purple"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $red"	~"$cyan"{"$white"T"$cyan"}"$white".TUTORIAL & LIVE TARGET"$cyan
-echo $purple"___________________________________________________"
-echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
+echo $purple"－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－"
+echo $white "╭─"$red"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  apaan
 
 if [ $apaan = "A" ] || [ $apaan = "a" ]
@@ -207,7 +206,7 @@ fi
 
 if [ $apaan = "Q" ] || [ $apaan = "q" ]
 then
-echo " :) "
+echo " Terimakasih Sudah Menggunakan Tools Kami :) "
 exit
 clear
 fi
