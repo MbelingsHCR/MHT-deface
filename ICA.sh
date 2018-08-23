@@ -79,6 +79,9 @@ echo $yellow
 figlet -f future "Auto Deface 20"
 
 echo "### ctrl + c to quit ###"
+echo
+echo $cyan "Deface Masal Sebanyak 20 Web"
+echo
 echo "Masukan Script !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white                               
 read -p " ╰─$ " script
