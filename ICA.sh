@@ -233,5 +233,3 @@ if [ $back = "Q" ] || [ $back = "q" ]
 then
 clear
 fi
-
-
