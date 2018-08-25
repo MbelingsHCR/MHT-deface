@@ -9,15 +9,13 @@ purple="\033[37;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
 echo $yellow
-figlet -f future "Indonesian Cyber Army"
-echo $indigo
-date
+figlet -f future " Indonesian Cyber Army"
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $cyan" ["$red"+"$cyan"]Author by	: Chemod_zrd404 "
 echo $cyan" ["$red"+"$cyan"]Team        : Indonesian Cyber Army		"
 echo $cyan" ["$red"+"$cyan"]Blog        : http://generasicyberindo.blogspot.com"
 echo $cyan" ["$red"+"$cyan"]Github	: https://github.com/21D4N404"
-echo $cyan" ["$white"NOTE : simpan script di memory internal di luar folder"$cyan"]"
+echo $green" ["$white"NOTE : simpan script di memory internal di luar folder"$green"]"
 echo $red"##############################################################"
 echo $red"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index"$cyan"       {"$white"Q"$cyan"}"$green"Quit "
 echo $red"	~"$cyan"{"$white"B"$cyan"}"$green".Colong Script"$cyan"     {"$white"I"$cyan"}"$green"Info "
@@ -25,7 +23,7 @@ echo $red"	~"$cyan"{"$white"C"$cyan"}"$green".Auto Deface"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $red"	~"$cyan"{"$white"T"$cyan"}"$white".TUTORIAL & LIVE TARGET"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
-echo
+echo $indigo date
 echo $green"     Pilih Mau Yg Mana?"
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  apaan
