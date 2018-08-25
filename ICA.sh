@@ -17,13 +17,13 @@ echo
 echo
 echo $yellow
 figlet -f future "Indonesian Cyber Army"
-echo $red" #########################$green" WELCOME "$red#########################"
-echo $red"#"$cyan" ["$red"+"$cyan"]Author By   : Chemod_zrd404 "
-echo $red"#"$cyan" ["$red"+"$cyan"]Team        : Indonesian Cyber Army		"
-echo $red"#"$cyan" ["$red"+"$cyan"]Blog        : http://generasicyberindo.blogspot.com"
-echo $red"#"$cyan ["$red"+"$cyan"]Github	: https://github.com/21D4N404"
-echo $green" ["$white"NOTE : simpan script di memory internal di luar folder"$green"]"
-echo $red" ##########################################################"
+echo $red"#########################$green" WELCOME "$red###########################"
+echo $red"#" $cyan" ["$red"+"$cyan"]Author By   : Chemod_zrd404 "
+echo $red"#" $cyan" ["$red"+"$cyan"]Team        : Indonesian Cyber Army		"
+echo $red"#" $cyan" ["$red"+"$cyan"]Blog        : http://generasicyberindo.blogspot.com"
+echo $red"#" $cyan" ["$red"+"$cyan"]Github	: https://github.com/21D4N404"
+echo $red"#" $green"  ["$white"NOTE : simpan script di memory internal di luar folder"$green"]"
+echo $red"##########################################################"
 echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$yellow"."$green"Tebas Index"$cyan
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$yellow"."$green"Colong Script"$cyan
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$yellow"."$green"Auto Deface"$cyan
