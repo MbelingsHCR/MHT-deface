@@ -39,7 +39,7 @@ echo
 echo
 echo
 clear
-echo lolcat
+echo $indigo
 figlet -f future Deface Tebas Index
 echo
 echo $red "Simpan SC Di Memory Internal Di Luar Folder "
@@ -80,7 +80,7 @@ clear
 echo
 echo
 echo
-echo $yellow
+echo $red
 figlet -f future Nyolong Script Orang
 echo $green "Masukan Target !!!! "
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
@@ -101,7 +101,7 @@ echo
 echo
 echo
 clear
-echo $yellow
+echo $red
 figlet -f future "Auto Deface 20"
 echo
 echo "### ctrl + c to quit ###"
@@ -223,7 +223,7 @@ echo
 echo
 echo
 clear
-echo lolcat
+echo $indigo
 figlet -f future "Informasi Tools"
 echo $red"################# INFO ####################"
 echo $indigo"__________________________________________"
