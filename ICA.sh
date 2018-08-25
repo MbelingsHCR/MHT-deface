@@ -27,7 +27,6 @@ echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿�
 echo 
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  apaan
-echo $indigo"##############################################################"
 
 if [ $apaan = "A" ] || [ $apaan = "a" ]
 then
