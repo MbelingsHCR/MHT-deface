@@ -23,7 +23,7 @@ xxx() {
 			exit
 	else
 		clear
-		echo "\a  ketik sh LITETOOLS.sh "
+		echo "\a  Upsss..... "
 		exit
 	fi
 }
