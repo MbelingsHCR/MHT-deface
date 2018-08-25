@@ -9,8 +9,6 @@ purple="\033[37;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
 clear
-clear
-clear
 echo
 echo
 echo
@@ -18,7 +16,7 @@ echo
 echo $yellow
 figlet -f future "Indonesian Cyber Army"
 echo $red"##########################$green" WELCOME "$red###########################"
-echo $cyan" ["$red"+"$cyan"]Author by	: Chemod_zrd404 "
+echo $cyan" ["$red"+"$cyan"]Author By   : Chemod_zrd404 "
 echo $cyan" ["$red"+"$cyan"]Team        : Indonesian Cyber Army		"
 echo $cyan" ["$red"+"$cyan"]Blog        : http://generasicyberindo.blogspot.com"
 echo $cyan" ["$red"+"$cyan"]Github	: https://github.com/21D4N404"
@@ -36,14 +34,12 @@ read -p " ╰─$ "  apaan
 
 if [ $apaan = "A" ] || [ $apaan = "a" ]
 then
+echo
+echo
+echo
+echo
 clear
-clear
-clear
-echo
-echo
-echo
-echo
-echo $red                                          "
+echo lolcat
 figlet -f future Deface Tebas Index
 echo
 echo $red "Simpan SC Di Memory Internal Di Luar Folder "
@@ -81,9 +77,6 @@ fi
 if [ $apaan = "B" ] || [ $apaan = "b" ]
 then
 clear
-clear
-clear
-echo
 echo
 echo
 echo
@@ -103,9 +96,14 @@ fi
 
 if [ $apaan = "C" ] || [ $apaan = "c" ]
 then
+echo
+echo
+echo
+echo
+clear
 echo $yellow
 figlet -f future "Auto Deface 20"
-
+echo
 echo "### ctrl + c to quit ###"
 echo
 echo $cyan "Deface Masal Sebanyak 20 Web"
@@ -220,14 +218,12 @@ fi
 
 if [ $apaan = "I" ] || [ $apaan = "i" ]
 then
+echo
+echo
+echo
+echo
 clear
-clear
-clear
-echo
-echo
-echo
-echo
-echo $indigo
+echo lolcat
 figlet -f future "Informasi Tools"
 echo $red"################# INFO ####################"
 echo $indigo"__________________________________________"
