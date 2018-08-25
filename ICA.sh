@@ -28,7 +28,7 @@ echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$yellow"."$green"Tebas Index"$cyan
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$yellow"."$green"Colong Script"$cyan
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$yellow"."$green"Auto Deface"$cyan
 echo $indigo"        ~"$cyan"{"$white"D"$cyan"}"$yellow"."$green"Scan Website"$cyan
-echo $indigo" ~      -"$cyan"{"$white"E"$cyan"}"$yellow"."$green"Install all tools"$cyan
+echo $indigo"        ~"$cyan"{"$white"E"$cyan"}"$yellow"."$green"Install all tools"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $indigo"	~"$cyan"{"$white"T"$cyan"}"$yellow"."$white"TUTORIAL & LIVE TARGET"$indigo"   +"$cyan"{"$white"I"$cyan"}"$white"Info"$indigo"   +"$cyan"{"$white"Q"$cyan"}"$white"Quit"
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
