@@ -15,10 +15,6 @@ echo
 echo
 echo
 echo
-echo
-echo
-echo
-echo
 echo $yellow
 figlet -f future "Indonesian Cyber Army"
 echo $red"##########################$green" WELCOME "$red###########################"
@@ -43,10 +39,6 @@ then
 clear
 clear
 clear
-echo
-echo
-echo
-echo
 echo
 echo
 echo
@@ -91,10 +83,6 @@ then
 clear
 clear
 clear
-echo
-echo
-echo
-echo
 echo
 echo
 echo
@@ -235,10 +223,6 @@ then
 clear
 clear
 clear
-echo
-echo
-echo
-echo
 echo
 echo
 echo
