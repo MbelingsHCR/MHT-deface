@@ -150,7 +150,9 @@ askscan:
             goto thephuckinstart;
           }
       
-      if [ $back = "B" ] || [ $back = "b" ] then sh ICA.sh goto
+      if [ $back = "B" ] || [ $back = "b" ] then
+        # sh ICA.sh
+        if
         elseif ($scan == 'q' | $scan == 'Q')
           {
             echo "\n\n\t Good Bye - Have a nice day :)\n\n";
