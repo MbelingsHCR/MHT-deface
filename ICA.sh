@@ -8,10 +8,13 @@ red="\033[35;1m"
 purple="\033[37;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
-echo
-echo
 clear
 clear
+clear
+echo
+echo
+echo
+echo
 echo
 echo
 echo
@@ -37,17 +40,18 @@ read -p " ╰─$ "  apaan
 
 if [ $apaan = "A" ] || [ $apaan = "a" ]
 then
-
-echo
-echo
-echo
+clear
 clear
 clear
 echo
 echo
 echo
 echo
-echo "                                          "
+echo
+echo
+echo
+echo
+echo $red                                          "
 figlet -f future Deface Tebas Index
 echo
 echo $red "Simpan SC Di Memory Internal Di Luar Folder "
@@ -84,7 +88,17 @@ fi
 
 if [ $apaan = "B" ] || [ $apaan = "b" ]
 then
-
+clear
+clear
+clear
+echo
+echo
+echo
+echo
+echo
+echo
+echo
+echo
 echo $yellow
 figlet -f future Nyolong Script Orang
 echo $green "Masukan Target !!!! "
@@ -218,15 +232,19 @@ fi
 
 if [ $apaan = "I" ] || [ $apaan = "i" ]
 then
-echo
-echo
-echo
+clear
 clear
 clear
 echo
 echo
 echo
 echo
+echo
+echo
+echo
+echo
+echo $indigo
+figlet -f future "Informasi Tools"
 echo $red"################# INFO ####################"
 echo $indigo"__________________________________________"
 echo $green"Author  : Chemod_zrd404			"
