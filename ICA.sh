@@ -32,7 +32,11 @@ read -p " ╰─$ "  apaan
 
 if [ $apaan = "A" ] || [ $apaan = "a" ]
 then
- 
+
+echo
+echo
+echo
+clear
 echo "                                          "
 figlet -f future Deface Tebas Index
 echo
@@ -204,6 +208,10 @@ fi
 
 if [ $apaan = "I" ] || [ $apaan = "i" ]
 then
+echo
+echo
+echo
+clear
 echo $red"################# INFO ####################"
 echo $indigo"__________________________________________"
 echo $green"AUTHOR  : Chemod_zrd404			"
