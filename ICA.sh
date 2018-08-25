@@ -252,12 +252,12 @@ echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Qui
 read -p "[B/Q] " back
 fi
 
-if [ $apaan = "D" ] || [ $apaan = "d" ]
+if [ $sh apaan = "D" ] || [ $apaan = "d" ]
 then
 cd Files
 php kamu.php
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
-read -p "[B/Q] " back
+read -p "[B/Q] " sh ICA.sh
 fi
 
 if [ $apaan = "T" ] || [ $apaan = "t" ]
