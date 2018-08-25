@@ -26,7 +26,7 @@ echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿�
 echo $red"	~"$cyan"{"$white"T"$cyan"}"$white".TUTORIAL & LIVE TARGET"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
-echo $green"  Pilih Mau Yg Mana?"
+echo $green"     Pilih Mau Yg Mana?"
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  apaan
 
