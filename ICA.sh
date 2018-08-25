@@ -12,20 +12,21 @@ echo $yellow
 figlet -f future "Indonesian Cyber Army"
 echo $indigo
 date
-echo $red"##################WELCOME######################"
+echo $red"#############################WELCOME################################"
 echo $cyan" ["$red"+"$cyan"]Author by	: Chemod_zrd404 "
 echo $cyan" ["$red"+"$cyan"]Team        : Indonesian Cyber Army		"
 echo $cyan" ["$red"+"$cyan"]Blog        : http://generasicyberindo.blogspot.com"
 echo $cyan" ["$red"+"$cyan"]Github	: https://github.com/21D4N404"
 echo $cyan" ["$white"NOTE : simpan script di memory internal di luar folder"$cyan"]"
-echo $red"###############################################"
+echo $red"#####################################################################"
 echo $red"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index"$cyan"       {"$white"Q"$cyan"}"$green"Quit "
 echo $red"	~"$cyan"{"$white"B"$cyan"}"$green".Colong Script"$cyan"     {"$white"I"$cyan"}"$green"Info "
 echo $red"	~"$cyan"{"$white"C"$cyan"}"$green".Auto Deface"$cyan
 echo $purple"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $red"	~"$cyan"{"$white"T"$cyan"}"$white".TUTORIAL & LIVE TARGET"$cyan
 echo $purple"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
-echo $gren"Pilih Mau Yg Mana?"
+echo
+echo $green"  Pilih Mau Yg Mana?"
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  apaan
 
@@ -35,7 +36,7 @@ then
 echo "                                          "
 figlet -f future Deface Tebas Index
 echo
-echo $red "Namai SC dengan (index.html) "
+echo $red "Simpan SC Di Memory Internal Di Luar Folder "
 echo
 echo $yellow "Live Target"
 echo $white "http://contsol.co.za"
@@ -44,7 +45,15 @@ echo $white "http://chillibitez.co.za"
 echo $cyan "http://chasingfantasia.com"
 echo $white "http://centraltech.co.za"
 echo $cyan "http://cblandscapes.co.za"
-echo
+echo $white "http://crimsonmonkeyweb.com"
+echo $cyan "http://kevinbutho.com"
+echo $white "http://prorepafrica.com"
+echo $cyan "http://xposurephotography.co.za"
+echo $white "http://windmillsandporcupines.co.za"
+echo $cyan "http://tcnig.co.za"
+echo $white "http://techdirect.co.za"
+echo $cyan "http://thehellenic.co.za"
+echo $white "http://valdicare.co.za"
 echo
 echo $red "Eksekusi Taarget!!!"
 echo $green "╭─"$blue"Chemod@zrd404"$cyan" ~/IndoCyber"$white
