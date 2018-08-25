@@ -18,8 +18,8 @@ echo
 echo $yellow
 figlet -f future "Indonesian Cyber Army"
 echo $red"#########################$green" WELCOME "$red###########################"
-echo $red"#" $cyan" ["$red"+"$cyan"]Author By   : Chemod_zrd404 "$red"                  #"
-echo $red"#" $cyan" ["$red"+"$cyan"]Team        : Indonesian Cyber Army		"$red"           #"
+echo $red"#" $cyan" ["$red"+"$cyan"]Author By   : Chemod_zrd404 "$red"                 #"
+echo $red"#" $cyan" ["$red"+"$cyan"]Team        : Indonesian Cyber Army		"$red"       #"
 echo $red"#" $cyan" ["$red"+"$cyan"]Blog        : http://generasicyberindo.blogspot.com"$red"#"
 echo $red"#" $cyan" ["$red"+"$cyan"]Github	: https://github.com/21D4N404"$red"            #"
 echo $red"#" $green" ["$white"NOTE : simpan script di memory internal di luar folder"$green"]"$red" #"
