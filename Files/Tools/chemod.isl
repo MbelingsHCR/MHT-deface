@@ -7,8 +7,7 @@
 ######################################################################
 ######################################################################
 ######################################################################
-Author="        Chemod_zrd404		"
-Support="       MR.NAGON_T47 	"
+Author="        Hamba Allah		"
 THANKS="	ALL MEMBER [I.C.A]........."
 xxx() {
 	read -p "B/Back or E/Exit : " be
@@ -39,12 +38,11 @@ banner
 echo $white"""\a
 
 
-		Author 		: Chemod_zrd404
+		Author 		: Hamba Allah
                 Friend          : MR.NAGON_T47
 		Version		: 1.0
 		code		: bash
 		powered by 	: Indonesian Cyber Army
-		Github		: https://github.com/21D4N404
 
 		~~ All Member indonesian Cyber Army ~~
 
@@ -58,11 +56,12 @@ xxx
 ##################################################################
 ##								##
 ##	Indonesian Cyber Army  <3				##
-##	Made by : Chemod_zrd404					##
+##	Made by : Hamba Allah					##
 ##	Code	: Bash,Shell					##
 ##	Version	: 1.0						##
 ##	Indonesian Cyber Army copyright(c)			##
-##      Chmod_zrd404 copyright (c)				##
+##      Allah  Yg Lemah Tak Berdaya
+##
 ##								##
 ##	Thanks To :						##
 ##      MR.NAGON_TA7 and all member indonesian cyber army	##
@@ -233,11 +232,11 @@ fi
 zzzzzzzzzzzz() {
 echo '''\a
 \033[34;1m		*
-\033[34;1m * ╻┏┓╻╺┳┓┏━┓┏┓╻┏━╸┏━┓╻┏━┓┏┓╻   ┏━╸╻ ╻┏┓ ┏━╸┏━┓   ┏━┓┏━┓┏┳┓╻ ╻ 
-\033[34;1m   ┃┃┗┫ ┃┃┃ ┃┃┗┫┣╸ ┗━┓┃┣━┫┃┗┫   ┃  ┗┳┛┣┻┓┣╸ ┣┳┛   ┣━┫┣┳┛┃┃┃┗┳┛
-\033[34;1m*  ╹╹ ╹╺┻┛┗━┛╹ ╹┗━╸┗━┛╹╹ ╹╹ ╹   ┗━╸ ╹ ┗━┛┗━╸╹┗╸   ╹ ╹╹┗╸╹ ╹ ╹   
+\033[34;1m * ┏━┓╻  ╻     ╺┳╸┏━┓┏━┓╻  ┏━┓   ╺┳╸┏━╸┏━┓┏┳┓╻ ╻╻ ╻ 
+\033[34;1m   ┣━┫┃  ┃      ┃ ┃ ┃┃ ┃┃  ┗━┓    ┃ ┣╸ ┣┳┛┃┃┃┃ ┃┏╋┛
+\033[34;1m*  ╹ ╹┗━╸┗━╸    ╹ ┗━┛┗━┛┗━╸┗━┛    ╹ ┗━╸╹┗╸╹ ╹┗━┛╹ ╹   
 \033[37;1m    Powered By : Indonesia Cyber Army\033[34;1m	*
-\033[39;1m		Made by	   : Chemod_zrd404
+\033[39;1m		Made by	   : Hamba Allah
 \033[34;1m  *	    *	\033[31;1mI\033[39;1mnstall-\033[31;1mT\033[39;1mools-ter\033[31;1mMUX\033[34;1m	
 *		*
 \033[34;1m	*		*			*	\033[39;1m
@@ -246,10 +245,10 @@ echo '''\a
 banner() {
 echo '''
 \033[34;1m*
-\033[34;1m   ╻┏┓╻╺┳┓┏━┓┏┓╻┏━╸┏━┓╻┏━┓┏┓╻   ┏━╸╻ ╻┏┓ ┏━╸┏━┓   ┏━┓┏━┓┏┳┓╻ ╻ 
-\033[34;1m   ┃┃┗┫ ┃┃┃ ┃┃┗┫┣╸ ┗━┓┃┣━┫┃┗┫   ┃  ┗┳┛┣┻┓┣╸ ┣┳┛   ┣━┫┣┳┛┃┃┃┗┳┛  
-\033[34;1m   ╹╹ ╹╺┻┛┗━┛╹ ╹┗━╸┗━┛╹╹ ╹╹ ╹   ┗━╸ ╹ ┗━┛┗━╸╹┗╸   ╹ ╹╹┗╸╹ ╹ ╹
-\033[37;1m    Made By : Chemod_zrd404\033[39;1m Indonesian Cyber Army		 \033[34;1m   *
+\033[34;1m   ┏━┓╻  ╻     ╺┳╸┏━┓┏━┓╻  ┏━┓   ╺┳╸┏━╸┏━┓┏┳┓╻ ╻╻ ╻ 
+\033[34;1m   ┣━┫┃  ┃      ┃ ┃ ┃┃ ┃┃  ┗━┓    ┃ ┣╸ ┣┳┛┃┃┃┃ ┃┏╋┛  
+\033[34;1m   ╹ ╹┗━╸┗━╸    ╹ ┗━┛┗━┛┗━╸┗━┛    ╹ ┗━╸╹┗╸╹ ╹┗━┛╹ ╹
+\033[37;1m    Made By : Hamba\033[39;1m Allah		 \033[34;1m   *
 \033[34;1m	*					*		*
 '''
 }
