@@ -10,7 +10,8 @@ cyan="\033[36;1m"
 white="\033[39;1m"
 echo
 echo
-clear
+clear 1
+clear 2
 echo $yellow
 figlet -f future "Indonesian Cyber Army"
 echo $red"##########################$green" WELCOME "$red###########################"
@@ -36,7 +37,8 @@ then
 echo
 echo
 echo
-clear
+clear 1
+clear 2
 echo "                                          "
 figlet -f future Deface Tebas Index
 echo
@@ -211,7 +213,9 @@ then
 echo
 echo
 echo
-clear
+clear 1
+clear 2
+clear 3
 echo $red"################# INFO ####################"
 echo $indigo"__________________________________________"
 echo $green"AUTHOR  : Chemod_zrd404			"
