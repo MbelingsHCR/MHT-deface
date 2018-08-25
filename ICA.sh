@@ -267,6 +267,15 @@ echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Qui
 read -p "[B/Q] " back
 fi
 
+if [ $sh apaan = "D" ] || [ $apaan = "d" ]
+then
+cd Files
+cd Tools
+sh chemod.isl
+echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
+read -p "[B/Q] " back
+fi
+
 if [ $apaan = "Q" ] || [ $apaan = "q" ]
 then
 echo " Terimakasih Sudah Menggunakan Tools Kami :) "
