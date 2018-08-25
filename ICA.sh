@@ -8,8 +8,10 @@ red="\033[35;1m"
 purple="\033[37;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
-clear
 echo
+echo
+echo
+clear
 echo
 echo
 echo
@@ -37,8 +39,10 @@ then
 echo
 echo
 echo
-echo
 clear
+echo
+echo
+echo
 echo $indigo
 figlet -f future Deface Tebas Index
 echo
@@ -76,6 +80,9 @@ fi
 
 if [ $apaan = "B" ] || [ $apaan = "b" ]
 then
+echo
+echo
+echo
 clear
 echo
 echo
@@ -99,8 +106,10 @@ then
 echo
 echo
 echo
-echo
 clear
+echo
+echo
+echo
 echo $red
 figlet -f future "Auto Deface 20"
 echo
@@ -221,8 +230,10 @@ then
 echo
 echo
 echo
-echo
 clear
+echo
+echo
+echo
 echo $indigo
 figlet -f future "Informasi Tools"
 echo $red"################# INFO ####################"
