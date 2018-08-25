@@ -28,9 +28,8 @@ echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index" $indigo"        +"
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green".Colong Script" $indigo"      +"$cyan"{"$white"Q"$cyan"}"$green"Quit "
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green".Auto Deface"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
-echo $indigo"	~"$cyan"{"$white"T"$cyan"}"$white".TUTORIAL & LIVE TARGET"$cyan
+echo $indigo"	~"$cyan"{"$white"T"$cyan"}"$indigo".TUTORIAL & LIVE TARGET"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
-echo 
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  apaan
 
@@ -239,7 +238,7 @@ figlet -f future "Informasi Tools"
 echo $red"################# INFO ####################"
 echo $indigo"__________________________________________"
 echo $green"Author  : Chemod_zrd404			"
-echo $purple"Gthub  : https://github.com/21D4N404"
+echo $purple"Gthub   : https://github.com/21D4N404"
 echo $white"Blog    : http://generasicyberindo.blogspot.com"
 echo $yellow"		  THANKS TO : "
 echo $cyan"[+] MR.NAGON_TA7 & KOKO "
