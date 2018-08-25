@@ -234,17 +234,17 @@ echo
 echo
 echo
 echo $indigo
-figlet -f future "      Informasi Tools"
+figlet -f future "    Informasi Tools"
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $green"Author  : Chemod_zrd404			"
 echo $purple"Gthub   : https://github.com/21D4N404"
 echo $white"Blog    : http://generasicyberindo.blogspot.com"
-echo $yellow"      	  THANKS TO : "
+echo $yellow                     "THANKS TO : "
 echo $cyan"[+] MR.NAGON_TA7 & KOKO "
 echo $cyan"[+] MR.W3B_XIT "
 echo $cyan"[+] MR.L3RBI & All Member [I.C.A] "
 echo $red"##########################$green" WELCOME "$red###########################"
-echo $indigo"__________________________________________"
+echo $indigo"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] " back
 fi
