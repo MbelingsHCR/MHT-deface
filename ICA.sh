@@ -27,6 +27,7 @@ echo $red"##############################################################"
 echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index" $indigo"        +"$cyan"{"$white"I"$cyan"}"$green"Info "
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green".Colong Script" $indigo"      +"$cyan"{"$white"Q"$cyan"}"$green"Quit "
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green".Auto Deface"$cyan
+echo $indigo"        ~"$cyan"{"$white"D"$cyan"}"$green".Scan Website"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $indigo"	~"$cyan"{"$white"T"$cyan"}"$purple".TUTORIAL & LIVE TARGET"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
@@ -247,6 +248,14 @@ echo $cyan"[+] MR.W3B_XIT "
 echo $cyan"[+] MR.L3RBI & All Member [I.C.A] "
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $indigo"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
+read -p "[B/Q] " back
+fi
+
+if [ $apaan = "D" ] || [ $apaan = "d" ]
+then
+cd Files
+php kamu.php
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] " back
 fi
