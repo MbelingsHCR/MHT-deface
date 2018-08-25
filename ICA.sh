@@ -28,7 +28,7 @@ echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index" $indigo"        +"
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green".Colong Script" $indigo"      +"$cyan"{"$white"Q"$cyan"}"$green"Quit "
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green".Auto Deface"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
-echo $indigo"	~"$cyan"{"$white"T"$cyan"}"$indigo".TUTORIAL & LIVE TARGET"$cyan
+echo $indigo"	~"$cyan"{"$white"T"$cyan"}"$purple".TUTORIAL & LIVE TARGET"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  apaan
