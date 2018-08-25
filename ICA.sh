@@ -18,7 +18,7 @@ echo $cyan" ["$red"+"$cyan"]Github	: https://github.com/21D4N404"
 echo $green" ["$white"NOTE : simpan script di memory internal di luar folder"$green"]"
 echo $red"##############################################################"
 echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index" $indigo"        +"$cyan"{"$white"I"$cyan"}"$green"Info "
-echo $indigo"       ~"$cyan"{"$white"B"$cyan"}"$green".Colong Script" $indigo"      +"$cyan"{"$white"Q"$cyan"}"$green"Quit "
+echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green".Colong Script" $indigo"      +"$cyan"{"$white"Q"$cyan"}"$green"Quit "
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green".Auto Deface"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $indigo"	~"$cyan"{"$white"T"$cyan"}"$white".TUTORIAL & LIVE TARGET"$cyan
