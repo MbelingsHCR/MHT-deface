@@ -24,12 +24,12 @@ echo $cyan" ["$red"+"$cyan"]Blog        : http://generasicyberindo.blogspot.com"
 echo $cyan" ["$red"+"$cyan"]Github	: https://github.com/21D4N404"
 echo $green" ["$white"NOTE : simpan script di memory internal di luar folder"$green"]"
 echo $red"##############################################################"
-echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index"$cyan
-echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green".Colong Script"$cyan
-echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green".Auto Deface"$cyan
-echo $indigo"        ~"$cyan"{"$white"D"$cyan"}"$green".Scan Website"$cyan
+echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$white"."$green"Tebas Index"$cyan
+echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$white"."$green"Colong Script"$cyan
+echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$white"."$green"Auto Deface"$cyan
+echo $indigo"        ~"$cyan"{"$white"D"$cyan"}"$white"."$green"Scan Website"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
-echo $indigo"	~"$cyan"{"$white"T"$cyan"}"$purple".TUTORIAL & LIVE TARGET"$indigo"   +"$cyan"{"$white"I"$cyan"}"$green"Info"$indigo"   +"$cyan"{"$white"Q"$cyan"}"$green"Quit"
+echo $indigo"	~"$cyan"{"$white"T"$cyan"}"$white"."$indigo"TUTORIAL & LIVE TARGET"$indigo"   +"$cyan"{"$white"I"$cyan"}"$indigo"Info"$indigo"   +"$cyan"{"$white"Q"$cyan"}"$indigo"Quit"
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  apaan
