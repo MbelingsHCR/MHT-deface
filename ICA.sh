@@ -72,7 +72,7 @@ echo $red "Masukan Script!!! "
 echo $green "╭─"$blue"Chemod@zrd404"$cyan" ~/Nama SC Harus(index.html)"$white
 read -p " ╰─$ "  script
 curl -T /storage/emulated/0/$script $target
-echo $red "[+]>>>>> = $target"
+echo $red "["$yellow"Berhasil"$red"]"$white"～～～＞"$green" $target"
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] : " back
 fi
