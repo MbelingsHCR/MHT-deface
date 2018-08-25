@@ -12,7 +12,7 @@ echo $yellow
 figlet -f future "Indonesian Cyber Army"
 echo $indigo
 date
-echo $red"######################### WELCOME ###########################"
+echo $red"##########################$green" WELCOME "$red###########################"
 echo $cyan" ["$red"+"$cyan"]Author by	: Chemod_zrd404 "
 echo $cyan" ["$red"+"$cyan"]Team        : Indonesian Cyber Army		"
 echo $cyan" ["$red"+"$cyan"]Blog        : http://generasicyberindo.blogspot.com"
