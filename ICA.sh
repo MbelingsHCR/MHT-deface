@@ -10,8 +10,8 @@ cyan="\033[36;1m"
 white="\033[39;1m"
 echo
 echo
-clear 1
-clear 2
+clear
+clear
 echo $yellow
 figlet -f future "Indonesian Cyber Army"
 echo $red"##########################$green" WELCOME "$red###########################"
@@ -37,8 +37,8 @@ then
 echo
 echo
 echo
-clear 1
-clear 2
+clear
+clear
 echo "                                          "
 figlet -f future Deface Tebas Index
 echo
@@ -213,14 +213,13 @@ then
 echo
 echo
 echo
-clear 1
-clear 2
-clear 3
+clear
+clear
 echo $red"################# INFO ####################"
 echo $indigo"__________________________________________"
-echo $green"AUTHOR  : Chemod_zrd404			"
-echo $purple"GITHUB : https://github.com/21D4N404"
-echo $white"BLOG    : http://generasicyberindo.blogspot.com"
+echo $green"Author  : Chemod_zrd404			"
+echo $purple"Gthub  : https://github.com/21D4N404"
+echo $white"Blog    : http://generasicyberindo.blogspot.com"
 echo $yellow"		  THANKS TO : "
 echo $cyan"[+] MR.NAGON_TA7 & KOKO "
 echo $cyan"[+] MR.W3B_XIT "
