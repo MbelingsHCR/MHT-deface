@@ -12,6 +12,10 @@ echo
 echo
 clear
 clear
+echo
+echo
+echo
+echo
 echo $yellow
 figlet -f future "Indonesian Cyber Army"
 echo $red"##########################$green" WELCOME "$red###########################"
@@ -39,6 +43,10 @@ echo
 echo
 clear
 clear
+echo
+echo
+echo
+echo
 echo "                                          "
 figlet -f future Deface Tebas Index
 echo
@@ -215,6 +223,10 @@ echo
 echo
 clear
 clear
+echo
+echo
+echo
+echo
 echo $red"################# INFO ####################"
 echo $indigo"__________________________________________"
 echo $green"Author  : Chemod_zrd404			"
