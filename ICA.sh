@@ -234,8 +234,8 @@ echo
 echo
 echo
 echo $indigo
-figlet -f future "Informasi Tools"
-echo $red"################# INFO ####################"
+figlet -f future "           Informasi Tools"
+echo $red"##########################$green" WELCOME "$red###########################"
 echo $indigo"__________________________________________"
 echo $green"Author  : Chemod_zrd404			"
 echo $purple"Gthub   : https://github.com/21D4N404"
@@ -244,7 +244,7 @@ echo $yellow"		  THANKS TO : "
 echo $cyan"[+] MR.NAGON_TA7 & KOKO "
 echo $cyan"[+] MR.W3B_XIT "
 echo $cyan"[+] MR.L3RBI & All Member [I.C.A] "
-echo $red"################# INFO ####################"
+echo $red"##########################$green" WELCOME "$red###########################"
 echo $indigo"__________________________________________"
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] " back
