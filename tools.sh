@@ -7,19 +7,19 @@ cyan="\033[36;1m"
 white="\033[39;1m"
 echo
 echo -e $green
-echo "Loading./";
+echo "Loading........";
 sleep 0.1;
 clear
 echo -e $green
-echo 'Loading..\';
+echo 'Loading............';
 sleep 0.1;
 clear
 echo -e $green
-echo 'Loading.../';
+echo 'Loading....................';
 sleep 0.1;
 clear
 echo -e $red
-echo 'Loading....\';
+echo 'Loading.............................';
 sleep 0.1;
 clear
 echo
