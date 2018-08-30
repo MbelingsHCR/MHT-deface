@@ -8,7 +8,6 @@ red="\033[35;1m"
 purple="\033[37;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
-bash install.sh
 clear
 echo
 echo
