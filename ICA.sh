@@ -9,37 +9,6 @@ purple="\033[37;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
 bash install.sh
-echo -e $green
-echo "risky channel./";
-sleep 0.1;
-clear
-echo -e $green
-echo '21D4N404..-';
-sleep 0.1;
-clear
-echo -e $red
-echo 'Chemod_zrd404...\';
-sleep 0.1;
-clear
-echo -e $green
-echo "21D4N404..../";
-sleep 0.1;
-clear
-echo -e $red
-echo 'Chemod_zrd404.....-';
-sleep 0.1;
-clear
-echo -e $green
-echo '21D4N404......\';
-sleep 0.1;
-clear
-echo -e $red
-echo "Chemod_zrd404......./";
-sleep 0.1;
-clear
-echo -e $green
-echo "21D4N404........-";
-sleep 0.1;
 clear
 echo
 echo
