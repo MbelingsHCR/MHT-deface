@@ -18,12 +18,13 @@ echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $yellow
 figlet -f future "Indonesian Cyber Army"
+echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index" $indigo"        +"$cyan"{"$white"I"$cyan"}"$green"Info "
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green".Web Scan" $indigo"      +"$cyan"{"$white"Q"$cyan"}"$green"Quit "
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green".Auto Deface"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
-echo $indigo"	~"$cyan"{"$white"T"$cyan"}"$purple".TUTORIAL & LIVE TARGET"$cyan
+echo $indigo"+"$cyan"{"$white"T"$cyan"}"$purple".TUTORIAL & LIVE TARGET"$indigo"  +"$cyan"{"$white"I"$cyan"}"$purple"Info"$indigo"  +"$cyan"{"$white"Q"$cyan"}"$purple"Quit"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  apaan
