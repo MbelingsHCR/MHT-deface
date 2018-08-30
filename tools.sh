@@ -7,56 +7,56 @@ cyan="\033[36;1m"
 white="\033[39;1m"
 echo
 echo  $green
-echo "Loading........";
+echo "Loading........................";
 sleep 0.1;
 clear
 echo  $green
-echo 'Loading............';
+echo 'Loading.............................';
 sleep 0.2;
 clear
 echo  $green
-echo 'Loading....................';
+echo 'Loading...................................';
+sleep 0.3;
+clear
+echo  $red
+echo 'Loading..........................................';
+sleep 0.4;
+echo  $green
+echo "Loading...................................";
+sleep 0.1;
+clear
+echo  $green
+echo 'Loading...........................';
+sleep 0.2;
+clear
+echo  $green
+echo 'Loading.....................';
 sleep 0.3;
 clear
 echo  $red
 echo 'Loading.............................';
 sleep 0.4;
 echo  $green
-echo "Loading........";
+echo "Loading......................................";
 sleep 0.1;
 clear
 echo  $green
-echo 'Loading............';
+echo 'Loading................................................';
 sleep 0.2;
 clear
 echo  $green
-echo 'Loading....................';
+echo 'Loading......................................';
 sleep 0.3;
 clear
 echo  $red
 echo 'Loading.............................';
 sleep 0.4;
 echo  $green
-echo "Loading........";
+echo "Loading......................";
 sleep 0.1;
 clear
 echo  $green
-echo 'Loading............';
-sleep 0.2;
-clear
-echo  $green
-echo 'Loading....................';
-sleep 0.3;
-clear
-echo  $red
-echo 'Loading.............................';
-sleep 0.4;
-echo  $green
-echo "Loading........";
-sleep 0.1;
-clear
-echo  $green
-echo 'Loading............';
+echo 'Loading...............';
 sleep 0.2;
 clear
 echo  $green
@@ -84,6 +84,7 @@ echo
 echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index"$cyan
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green".Web Scan"$cyan
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green".Auto Deface"$cyan
+echo
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
 echo $indigo"  +"$cyan"{"$white"T"$cyan"}"$purple".TUTORIAL & LIVE TARGET"$indigo"     +"$cyan"{"$white"I"$cyan"}"$purple"Info"$indigo"     +"$cyan"{"$white"Q"$cyan"}"$purple"Quit"$cyan
