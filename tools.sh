@@ -7,37 +7,52 @@ cyan="\033[36;1m"
 white="\033[39;1m"
 echo
 echo  $green
-echo "Loading.........";
+echo "Loading.............................";
 sleep 0.1;
 clear
 echo  $green
-echo 'Loading.................';
+echo 'Loading................';
 sleep 0.2;
 clear
 echo  $green
-echo 'Loading.........';
+echo 'Loading..........................';
 sleep 0.3;
 clear
 echo  $red
-echo 'Loading................';
+echo 'Loading.....................................';
 sleep 0.4;
 echo  $green
 echo "Loading..........";
 sleep 0.1;
 clear
 echo  $green
-echo  'Loading...............';
+echo  'Loading...........................';
 sleep 0.2;
 clear
 echo  $green
-echo 'Loading..........';
+echo 'Loading..........................';
 sleep 0.3;
 clear
 echo  $red
-echo 'Loading................';
+echo 'Loading..........................................';
 sleep 0.4;
 echo  $green
-echo "Loading...........";
+echo "Loading..................";
+sleep 0.1;
+clear
+echo  $green
+echo 'Loading...................................';
+sleep 0.2;
+clear
+echo  $green
+echo 'Loading......................';
+sleep 0.3;
+clear
+echo  $red
+echo 'Loading........................';
+sleep 0.4;
+echo  $green
+echo "Loading.................................";
 sleep 0.1;
 clear
 echo  $green
@@ -45,26 +60,11 @@ echo 'Loading.................';
 sleep 0.2;
 clear
 echo  $green
-echo 'Loading............';
+echo 'Loading...............................';
 sleep 0.3;
 clear
 echo  $red
-echo 'Loading.................';
-sleep 0.4;
-echo  $green
-echo "Loading............";
-sleep 0.1;
-clear
-echo  $green
-echo 'Loading.................';
-sleep 0.2;
-clear
-echo  $green
-echo 'Loading............';
-sleep 0.3;
-clear
-echo  $red
-echo 'Loading..................';
+echo 'Loading..........................................';
 sleep 0.4;
 clear
 echo
@@ -74,7 +74,7 @@ echo
 echo
 echo
 echo $green
-figlet -f future "      Defacer Tools"
+figlet -f future "    Defacer Tools"
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $yellow
