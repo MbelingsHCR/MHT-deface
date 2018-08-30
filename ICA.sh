@@ -7,48 +7,48 @@ red='\e[1;31m'
 white='\e[1;37m'
 yellow='\e[1;33m'
 echo -e $green
-echo "risky channel./";
+echo "Chemod_zrd404............./";
 sleep 0.1;
 clear
 echo -e $green
-echo '21D4N404..-';
+echo '21D4N404...............-';
 sleep 0.1;
 clear
 echo -e $red
-echo 'Chemod_zrd404...\';
+echo 'Chemod_zrd404..................\';
 sleep 0.1;
 clear
 echo -e $green
-echo "21D4N404..../";
+echo "21D4N404................../";
 sleep 0.1;
 clear
 echo -e $red
-echo 'Chemod_zrd404.....-';
+echo 'Chemod_zrd404...........-';
 sleep 0.1;
 clear
 echo -e $green
-echo '21D4N404......\';
+echo '21D4N404...............\';
 sleep 0.1;
 clear
 echo -e $red
-echo "Chemod_zrd404......./";
+echo "Chemod_zrd404............../";
 sleep 0.1;
 clear
 echo -e $green
-echo "21D4N404........-";
+echo "21D4N404..............-";
 sleep 0.1;
 clear
-apt upgrade && apt update
+apt upgrade && apt update -y
 clear
-apt install python2
+apt install python2 -y
 clear
-apt install figlet
+apt install figlet -y
 clear
-apt install curl
+apt install curl -y
 clear
-apt install bash
+apt install bash -y
 clear
-pkg install php
+pkg install php -y
 clear
 echo -e $green      "Install berhasil....!!!"
 echo ""
