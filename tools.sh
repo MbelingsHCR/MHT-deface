@@ -7,79 +7,81 @@ cyan="\033[36;1m"
 white="\033[39;1m"
 echo
 echo  $green
-echo "Loading........................";
+echo "Loading.........";
 sleep 0.1;
 clear
 echo  $green
-echo 'Loading.............................';
+echo 'Loading.................';
 sleep 0.2;
 clear
 echo  $green
-echo 'Loading...................................';
+echo 'Loading.........';
 sleep 0.3;
 clear
 echo  $red
-echo 'Loading..........................................';
+echo 'Loading................';
 sleep 0.4;
 echo  $green
-echo "Loading...................................";
+echo "Loading..........";
 sleep 0.1;
 clear
 echo  $green
-echo 'Loading...........................';
+echo  'Loading...............';
 sleep 0.2;
 clear
 echo  $green
-echo 'Loading.....................';
+echo 'Loading..........';
 sleep 0.3;
 clear
 echo  $red
-echo 'Loading.............................';
+echo 'Loading................';
 sleep 0.4;
 echo  $green
-echo "Loading......................................";
+echo "Loading...........";
 sleep 0.1;
 clear
 echo  $green
-echo 'Loading................................................';
+echo 'Loading.................';
 sleep 0.2;
 clear
 echo  $green
-echo 'Loading......................................';
+echo 'Loading............';
 sleep 0.3;
 clear
 echo  $red
-echo 'Loading.............................';
+echo 'Loading.................';
 sleep 0.4;
 echo  $green
-echo "Loading......................";
+echo "Loading............";
 sleep 0.1;
 clear
 echo  $green
-echo 'Loading...............';
+echo 'Loading.................';
 sleep 0.2;
 clear
 echo  $green
-echo 'Loading....................';
+echo 'Loading............';
 sleep 0.3;
 clear
 echo  $red
-echo 'Loading.............................';
+echo 'Loading..................';
 sleep 0.4;
 clear
+echo
 echo
 echo
 echo
 echo
 echo
 echo $green
-figlet -f future "Defacer Tools"
+figlet -f future "      Defacer Tools"
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $yellow
 figlet -f future "Indonesian Cyber Army"
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
+echo
 echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index"$cyan
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green".Web Scan"$cyan
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green".Auto Deface"$cyan
@@ -91,7 +93,7 @@ echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿�
 echo
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  apaan
-
+echo
 if [ $apaan = "A" ] || [ $apaan = "a" ]
 then
 echo
