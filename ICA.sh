@@ -81,16 +81,9 @@ clear
 echo
 echo
 echo
-echo $red
-figlet -f future Nyolong Script Orang
-echo $green "Masukan Target !!!! "
-echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─$ "  target
-echo
-echo $green "Simpan dengan nama?? (Contoh: script.html)"
-echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Colong"$white
-read -p " ╰─$ " simpan
-curl -o $simpan $target
+pkg install php
+cd Files
+php kamu.php
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] : " back
 fi
