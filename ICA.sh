@@ -39,11 +39,20 @@ echo "21D4N404........-";
 sleep 0.1;
 clear
 apt upgrade && apt update
+clear
 apt install python2
+clear
 apt install figlet
+clear
 apt install curl
+clear
 apt install bash
 clear
-echo -e $green      "Install berhasil..."
+pkg install php
+clear
+echo -e $green      "Install berhasil....!!!"
 echo ""
-echo -e $yellow "ktikan : sh ICA.sh"
+echo
+echo
+echo
+sh tools.sh
