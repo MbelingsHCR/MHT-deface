@@ -72,7 +72,8 @@ echo
 echo
 echo
 echo
-echo
+echo $green
+figlet -f future "Defacer Tools"
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $yellow
@@ -82,6 +83,7 @@ echo $red"##########################$green" WELCOME "$red#######################
 echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index"$cyan
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green".Web Scan"$cyan
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green".Auto Deface"$cyan
+echo
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
 echo $indigo"  +"$cyan"{"$white"T"$cyan"}"$purple".TUTORIAL & LIVE TARGET"$indigo"     +"$cyan"{"$white"I"$cyan"}"$purple"Info"$indigo"     +"$cyan"{"$white"Q"$cyan"}"$purple"Quit"$cyan
