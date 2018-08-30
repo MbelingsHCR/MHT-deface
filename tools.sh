@@ -82,7 +82,7 @@ echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo
 echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green".Tebas Index"$cyan
-echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green".Web Scan"$cyan
+echo $indigo" ~"$cyan"{"$white"B"$cyan"}"$green".Web Scan"$cyan
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green".Auto Deface"$cyan
 echo
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
