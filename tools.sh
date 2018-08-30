@@ -6,21 +6,21 @@ purple="\033[37;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
 echo
-echo -e $green
+echo  $green
 echo "Loading........";
 sleep 0.1;
 clear
-echo -e $green
+echo  $green
 echo 'Loading............';
-sleep 0.1;
+sleep 0.2;
 clear
-echo -e $green
+echo  $green
 echo 'Loading....................';
-sleep 0.1;
+sleep 0.3;
 clear
-echo -e $red
+echo  $red
 echo 'Loading.............................';
-sleep 0.1;
+sleep 0.4;
 clear
 echo
 clear
