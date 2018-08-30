@@ -38,14 +38,14 @@ echo -e $green
 echo "21D4N404.....................";
 sleep 0.1;
 clear
-apt upgrade && apt update -y
-apt install python2 -y
 apt install figlet -y
 apt install curl -y
+clear
 apt install bash -y
 pkg install php -y
+clear
 echo -e $green      "Install berhasil....!!!"
-echo ""
+echo 
 echo
 echo
 echo
