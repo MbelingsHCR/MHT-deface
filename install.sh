@@ -33,9 +33,90 @@ clear
 echo -e $red
 echo "Chemod_zrd404.....................";
 sleep 0.1;
+echo -e $green
+echo "Chemod_zrd404....";
+sleep 0.1;
+clear
+echo -e $green
+echo '21D4N404................';
+sleep 0.1;
+clear
+echo -e $red
+echo 'Chemod_zrd404..................';
+sleep 0.1;
+clear
+echo -e $green
+echo "21D4N404..............................";
+sleep 0.1;
+clear
+echo -e $red
+echo 'Chemod_zrd404................................';
+sleep 0.1;
+clear
+echo -e $green
+echo '21D4N404.............................';
+sleep 0.1;
+clear
+echo -e $red
+echo "Chemod_zrd404.....................";
+sleep 0.1;
 clear
 echo -e $green
 echo "21D4N404.....................";
+sleep 0.1;
+echo -e $green
+echo "Chemod_zrd404....";
+sleep 0.1;
+clear
+echo -e $green
+echo '21D4N404................';
+sleep 0.1;
+clear
+echo -e $red
+echo 'Chemod_zrd404..................';
+sleep 0.1;
+clear
+echo -e $green
+echo "21D4N404..............................";
+sleep 0.1;
+clear
+echo -e $red
+echo 'Chemod_zrd404................................';
+sleep 0.1;
+clear
+echo -e $green
+echo '21D4N404.............................';
+sleep 0.1;
+clear
+echo -e $red
+echo "Chemod_zrd404.....................";
+sleep 0.1;
+echo -e $green
+echo "Chemod_zrd404....";
+sleep 0.1;
+clear
+echo -e $green
+echo '21D4N404................';
+sleep 0.1;
+clear
+echo -e $red
+echo 'Chemod_zrd404..................';
+sleep 0.1;
+clear
+echo -e $green
+echo "21D4N404..............................";
+sleep 0.1;
+clear
+echo -e $red
+echo 'Chemod_zrd404................................';
+sleep 0.1;
+clear
+echo -e $green
+echo '21D4N404.............................';
+sleep 0.1;
+clear
+echo -e $red
+echo "Chemod_zrd404.....................";
 sleep 0.1;
 clear
 apt install figlet -y
@@ -46,6 +127,6 @@ pkg install php -y
 clear
 echo -e $green      "Install berhasil....!!!"
 echo 
-echo -e $yellow"selanjutnya ketik"$white":"$red" sh ICA.sh"
+echo -e $yellow"              selanjutnya ketik"$white":"$red" sh ICA.sh"
 echo
 echo
