@@ -27,7 +27,7 @@ echo "Loading....................................";
 sleep 0.1;
 clear
 echo  $green
-echo  'Harap Sabar...............................................................................';
+echo  'Harap Sabar..............................................................';
 sleep 0.1;
 clear
 echo  $green
@@ -35,7 +35,7 @@ echo 'Loading................................................';
 sleep 0.1;
 clear
 echo  $red
-echo 'Harap Sabar.....................................................................';
+echo 'Harap Sabar...........................................................';
 sleep 0.1;
 echo  $green
 echo "Loading..........................................";
@@ -65,7 +65,45 @@ echo 'Loading....................................................';
 sleep 0.1;
 clear
 echo  $red
-echo 'Harap Sabar.................................................................';
+echo 'Harap Sabar......................................................';
+sleep 0.1;
+clear
+echo  $green
+echo "Loading.............................................";
+sleep 0.1;
+clear
+echo  $green
+echo 'Harap Sabar................';
+sleep 0.1;
+clear
+echo  $green
+echo 'Loading.................................';
+sleep 0.1;
+clear
+echo  $red
+echo 'Harap Sabar...................................................';
+sleep 0.4;
+echo  $green
+echo "Loading....................................";
+sleep 0.1;
+clear
+echo  $green
+echo "Loading.............................................";
+sleep 0.1;
+clear
+echo  $green
+echo 'Harap Sabar................';
+sleep 0.1;
+clear
+echo  $green
+echo 'Loading.................................';
+sleep 0.1;
+clear
+echo  $red
+echo 'Harap Sabar...................................................';
+sleep 0.4;
+echo  $green
+echo "Loading....................................";
 sleep 0.1;
 clear
 echo
