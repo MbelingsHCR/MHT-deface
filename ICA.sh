@@ -5,9 +5,10 @@ red="\033[35;1m"
 purple="\033[37;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
+bash install.sh
 echo
 echo  $green
-echo "Loading.............................";
+echo "Loading.......";
 sleep 0.1;
 clear
 echo  $green
@@ -19,25 +20,25 @@ echo 'Loading..........................';
 sleep 0.3;
 clear
 echo  $red
-echo 'Harap Sabar.....................................';
+echo 'Harap Sabar..........................';
 sleep 0.4;
 echo  $green
 echo "Loading..........";
 sleep 0.1;
 clear
 echo  $green
-echo  'Harap Sabar...........................';
+echo  'Harap Sabar...................';
 sleep 0.2;
 clear
 echo  $green
-echo 'Loading..........................';
+echo 'Loading...........................';
 sleep 0.3;
 clear
 echo  $red
 echo 'Harap Sabar..........................................';
 sleep 0.4;
 echo  $green
-echo "Loading..................";
+echo "Loading.............................";
 sleep 0.1;
 clear
 echo  $green
@@ -45,7 +46,7 @@ echo 'Harap Sabar...................................';
 sleep 0.2;
 clear
 echo  $green
-echo 'Loading......................';
+echo 'Loading............................................';
 sleep 0.3;
 clear
 echo  $red
@@ -60,11 +61,11 @@ echo 'Harap Sabar.................';
 sleep 0.2;
 clear
 echo  $green
-echo 'Loading...............................';
+echo 'Loading.....................................';
 sleep 0.3;
 clear
 echo  $red
-echo 'Harap Sabar..........................................';
+echo 'Harap Sabar............................';
 sleep 0.4;
 clear
 echo
