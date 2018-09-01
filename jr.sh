@@ -126,3 +126,10 @@ apt install bash -y
 pkg install php -y
 clear
 clear
+echo
+echo
+echo -e $green"Install Berhasil.....!!!"
+echo
+echo -e $cyan"                Selanjutnya ketik"$red":"$yellow" sh ICA.sh"$cyan
+echo
+echo
