@@ -1,3 +1,4 @@
+#Gila_coding
 green="\033[32;1m"
 yellow="\033[33;1m"
 indigo="\033[34;1m"
@@ -8,64 +9,64 @@ white="\033[39;1m"
 bash jr.sh
 echo
 echo  $green
-echo "Loading.............................................";
+echo "Loading.............";
 sleep 0.1;
 clear
 echo  $green
-echo 'Harap Sabar................';
+echo 'Harap Sabar.........................';
 sleep 0.1;
 clear
 echo  $green
-echo 'Loading.................................';
+echo 'Loading.................';
 sleep 0.1;
 clear
 echo  $red
 echo 'Harap Sabar...................................................';
 sleep 0.4;
 echo  $green
-echo "Loading....................................";
+echo "Loading..................................";
 sleep 0.1;
 clear
 echo  $green
-echo  'Harap Sabar..............................................................';
+echo  'Harap Sabar...............';
 sleep 0.1;
 clear
 echo  $green
-echo 'Loading................................................';
+echo 'Loading.......................................................';
 sleep 0.1;
 clear
 echo  $red
+echo 'Harap Sabar...........................';
+sleep 0.1;
+echo  $green
+echo "Loading.........................................";
+sleep 0.1;
+clear
+echo  $green
 echo 'Harap Sabar...........................................................';
 sleep 0.1;
-echo  $green
-echo "Loading..........................................";
-sleep 0.1;
 clear
 echo  $green
-echo 'Harap Sabar...................................';
-sleep 0.1;
-clear
-echo  $green
-echo 'Loading..........................';
+echo 'Loading................................';
 sleep 0.1;
 clear
 echo  $red
-echo 'Harap Sabar..................................................';
+echo 'Harap Sabar............................................';
 sleep 0.1;
 echo  $green
 echo "Loading.....................................";
 sleep 0.1;
 clear
 echo  $green
-echo 'Harap Sabar....................................................';
+echo 'Harap Sabar.............................';
 sleep 0.1;
 clear
 echo  $green
-echo 'Loading....................................................';
+echo 'Loading..............................................................';
 sleep 0.1;
 clear
 echo  $red
-echo 'Harap Sabar......................................................';
+echo 'Harap Sabar........................';
 sleep 0.1;
 clear
 echo  $green
@@ -125,10 +126,10 @@ echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green"."$yellow"Tebas Index"$cyan
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green"."$yellow"Web Scan"$cyan
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green"."$yellow"Auto Deface"$cyan
 echo
-echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+echo $cyan"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
 echo $indigo"  +"$cyan"{"$white"T"$cyan"}"$purple"."$green"TUTORIAL & LIVE TARGET"$indigo"      +"$cyan"{"$white"I"$cyan"}"$green"Info"$indigo"      +"$cyan"{"$white"Q"$cyan"}"$green"Quit"$cyan
-echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+echo $cyan"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  apaan
