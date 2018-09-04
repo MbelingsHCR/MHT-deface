@@ -119,7 +119,7 @@ toilet -f future "    Defacer Tools" | lolcat
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $yellow
-figlet -f future "Indonesian Cyber Army"
+toilet -f future "Indonesian Cyber Army" | lolcat
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo
@@ -145,7 +145,7 @@ echo
 echo
 echo
 echo $indigo
-figlet -f future Deface Tebas Index
+toilet -f future "Deface Tebas Index" | lolcat
 echo
 echo $red "Simpan SC Di Memory Internal Di Luar Folder "
 echo
@@ -206,7 +206,7 @@ echo
 echo
 echo
 echo $red
-figlet -f future "Auto Deface 20"
+toilet -f future "Auto Deface 20" | lolcat
 echo
 echo "### ctrl + c to quit ###"
 echo
@@ -352,7 +352,7 @@ echo
 echo
 echo
 echo $indigo
-figlet -f future "   Informasi Tools"
+toilet -f future "   Informasi Tools" | lolcat
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $green"Author  : Chemod_zrd404			"
 echo $purple"Gthub   : https://github.com/21D4N404"
