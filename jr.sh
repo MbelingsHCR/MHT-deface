@@ -7,7 +7,7 @@ red='\e[1;31m'
 white='\e[1;37m'
 yellow='\e[1;33m'
 echo -e $green
-echo "Chemod_zrd404....";
+echo "Chemod_zrd404...................................";
 sleep 0.1;
 clear
 echo -e $green
@@ -34,7 +34,7 @@ echo -e $red
 echo "Chemod_zrd404.....................";
 sleep 0.1;
 echo -e $green
-echo "Chemod_zrd404....";
+echo "Chemod_zrd404.................";
 sleep 0.1;
 clear
 echo -e $green
@@ -65,7 +65,7 @@ echo -e $green
 echo "21D4N404.....................";
 sleep 0.1;
 echo -e $green
-echo "Chemod_zrd404....";
+echo "Chemod_zrd404.............................";
 sleep 0.1;
 clear
 echo -e $green
@@ -92,7 +92,7 @@ echo -e $red
 echo "Chemod_zrd404.....................";
 sleep 0.1;
 echo -e $green
-echo "Chemod_zrd404....";
+echo "Chemod_zrd404............................";
 sleep 0.1;
 clear
 echo -e $green
@@ -126,10 +126,5 @@ apt install bash -y
 pkg install php -y
 clear
 clear
-echo
-echo
-echo -e $green"Install Berhasil.....!!!"
-echo
-echo -e $cyan"                Selanjutnya ketik"$red":"$yellow" sh ICA.sh"$cyan
 echo
 echo
