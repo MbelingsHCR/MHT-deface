@@ -114,12 +114,12 @@ echo
 echo
 echo
 echo
-echo $green
+echo
 toilet -f future "    Defacer Tools" | lolcat
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $yellow
-toilet -f future "Indonesian Cyber Army" | lolcat
+figlet -f future "Indonesian Cyber Army"
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo
@@ -144,7 +144,7 @@ clear
 echo
 echo
 echo
-echo $indigo
+echo
 toilet -f future "Deface Tebas Index" | lolcat
 echo
 echo $red "Simpan SC Di Memory Internal Di Luar Folder "
@@ -351,7 +351,7 @@ clear
 echo
 echo
 echo
-echo $indigo
+echo
 toilet -f future "   Informasi Tools" | lolcat
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $green"Author  : Chemod_zrd404			"
