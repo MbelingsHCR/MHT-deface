@@ -131,6 +131,7 @@ echo $cyan"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 echo
 echo $indigo"  +"$cyan"{"$white"T"$cyan"}"$purple"."$green"TUTORIAL & LIVE TARGET"$indigo"      +"$cyan"{"$white"I"$cyan"}"$green"Info"$indigo"      +"$cyan"{"$white"Q"$cyan"}"$green"Quit"$cyan
 echo $cyan"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+echo $indigo"==================================================="
 echo
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/IndoCyber"$white
 read -p " ╰─$ "  apaan
