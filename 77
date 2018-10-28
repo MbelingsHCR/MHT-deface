@@ -15,9 +15,13 @@ toilet -f future "    Defacer Tools" | lolcat
 echo
 echo $white "╭─"$yellow"WELLCOME TO MY TOOLS"$cyan" ~/Masukan Username Anda Di Bawah!!!"$white
 read -p " ╰─$ " kontol
+clear
 echo
 echo
 echo
+echo $red"Wellcome to"$green" $kontol"$red" Defacer Tools"
+sleep 3
+clear
 echo
 echo
 echo
@@ -32,6 +36,7 @@ echo
 echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green"."$yellow"Tebas Index"$cyan
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green"."$yellow"Web Scan"$cyan
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green"."$yellow"Auto Deface"$cyan
+echo $indigo"	~"$cyan"{"$white"D"$cyan"}"$green"."$yellow"Tools Installer"$cyan
 echo
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
