@@ -107,9 +107,6 @@ fi
 
 if [ $apaan = "C" ] || [ $apaan = "c" ]
 then
-echo
-echo
-echo
 clear
 echo
 echo
