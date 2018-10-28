@@ -15,16 +15,16 @@ toilet -f future "        Defacer Tools" | lolcat
 echo
 echo $white "╭─"$yellow"WELLCOME TO MY TOOLS"$cyan" ~/Masukan Username Anda Di Bawah!!!"$white
 read -p " ╰─$ " kontol
-eche
 echo
 echo
 echo
 echo
 echo
 echo
-echo "##########################" | lolcat $green" WELCOME " "###########################" | lolcat
 echo
-toilet -f future "    Defacer Tools" | lolcat
+echo $red"#########################$green" Chemod777 "$red##########################"
+echo
+toilet -f future "$kontol" | lolcat
 echo
 echo "##########################" | lolcat $green" Defacer " "###########################" | lolcat
 echo $yellow
@@ -42,7 +42,7 @@ echo $indigo"  +"$cyan"{"$white"T"$cyan"}"$white"."$green"TUTORIAL & LIVE TARGET
 echo $cyan"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $indigo"=============================================================="
 echo
-echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/IndoCyber"$white
+echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/$kontol"$white
 read -p " ╰─$ "  apaan
 echo
 if [ $apaan = "A" ] || [ $apaan = "a" ]
