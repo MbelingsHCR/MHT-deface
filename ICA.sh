@@ -183,7 +183,7 @@ toilet -f future "   Informasi Tools" | lolcat
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $green"Author     "$white":"$cyan" Chemod_zrd404			"
 echo $green"Gthub      "$white":"$cyan" https://github.com/21D4N404"
-echo $grewn"Website    "$white":"$cyan" www.indo-cyber.zone.id"
+echo $green"Website    "$white":"$cyan" www.indo-cyber.zone.id"
 echo
 echo $yellow"                          THANKS TO :"
 echo
