@@ -177,7 +177,7 @@ fi
 
 
 
-if [ $apaan = "B" ] || [ $apaan = "b" ]
+if [ $apaan = "D" ] || [ $apaan = "d" ]
 then
 echo
 echo
