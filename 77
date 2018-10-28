@@ -19,7 +19,7 @@ clear
 echo
 echo
 echo
-echo $red"Wellcome to"$green" $kontol"$red" Defacer Tools"
+echo $red"  Haloo"$green" $kontol"$red" Selamat Datang Di Tools Defacer"
 sleep 3
 clear
 echo
@@ -37,6 +37,7 @@ echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green"."$yellow"Tebas Index"$cyan
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green"."$yellow"Web Scan"$cyan
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green"."$yellow"Auto Deface"$cyan
 echo $indigo"	~"$cyan"{"$white"D"$cyan"}"$green"."$yellow"Tools Installer"$cyan
+echo $indigo"	~"$cyan"{"$white"E"$cyan"}"$green"."$yellow"Bikin Script Deface"$cyan
 echo
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
@@ -195,6 +196,30 @@ fi
 
 
 
+if [ $apaan = "E" ] || [ $apaan = "e" ]
+then
+clear
+echo
+echo
+echo
+echo
+echo
+echo
+cd Files
+python2 create.py
+echo
+mv -f index.html /storage/emulated/0/
+echo
+clear
+echo
+echo $green"Nama SC index.html Cari di memory internal!!!"
+echo
+echo
+echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
+read -p "[B/Q] : " back
+fi
+
+
 
 if [ $apaan = "I" ] || [ $apaan = "i" ]
 then
@@ -234,7 +259,7 @@ fi
 
 if [ $apaan = "Q" ] || [ $apaan = "q" ]
 then
-echo $red " Terimakasih Sudah Menggunakan Tools Kami :) "
+echo $red " Terimakasih $kontol Sudah Menggunakan Tools Kami :) "
 exit
 clear
 fi
