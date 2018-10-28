@@ -19,8 +19,8 @@ clear
 echo
 echo
 echo
-echo $red"  Haloo"$green" $kontol"$red" Selamat Datang Di Tools Defacer"
-sleep 3
+echo $red"    Haloo"$green" $kontol"$red" Selamat Datang Di Tools Defacer"
+sleep 4
 clear
 echo
 echo
