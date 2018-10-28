@@ -11,7 +11,7 @@ echo
 echo
 echo
 echo
-toilet -f future "  Defacer Tools" | lolcat
+toilet -f future "    Defacer Tools" | lolcat
 echo
 echo $white "╭─"$yellow"WELLCOME TO MY TOOLS"$cyan" ~/Masukan Username Anda Di Bawah!!!"$white
 read -p " ╰─$ " kontol
@@ -33,10 +33,10 @@ echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green"."$yellow"Tebas Index"$cyan
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green"."$yellow"Web Scan"$cyan
 echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green"."$yellow"Auto Deface"$cyan
 echo
-echo $cyan"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
 echo $indigo"  +"$cyan"{"$white"T"$cyan"}"$white"."$green"TUTORIAL & LIVE TARGET"$indigo"      +"$cyan"{"$white"I"$cyan"}"$green"Info"$indigo"      +"$cyan"{"$white"Q"$cyan"}"$green"Quit"$cyan
-echo $cyan"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $indigo"=============================================================="
 echo
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/$kontol"$white
@@ -169,6 +169,28 @@ echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Qui
 read -p "[B/Q] : " back
 fi
 
+
+
+
+if [ $apaan = "B" ] || [ $apaan = "b" ]
+then
+echo
+echo
+echo
+clear
+echo
+echo
+echo
+cd Files
+sh install
+echo
+echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
+read -p "[B/Q] : " back
+fi
+
+
+
+
 if [ $apaan = "I" ] || [ $apaan = "i" ]
 then
 echo
@@ -215,7 +237,7 @@ fi
 
 if [ $back = "B" ] || [ $back = "b" ]
 then
-sh ICA.sh
+sh 77
 fi
 
 if [ $back = "Q" ] || [ $back = "q" ]
