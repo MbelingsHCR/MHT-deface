@@ -22,15 +22,15 @@ echo
 echo
 echo
 echo
-echo $red"#########################$green" Chemod777 "$red##########################"
+echo $red"##########################$green" WELCOME "$red###########################"
 echo
 toilet -f future "$kontol" | lolcat
 echo
-echo "##########################" | lolcat $green" Defacer " "###########################" | lolcat
+echo $red"#########################$green" Chemod777 "$red##########################"
 echo $yellow
 figlet -f future "Indonesian Cyber Army"
 echo
-echo "##########################" | lolcat $green" WELCOME " "###########################" | lolcat
+echo $red"##########################$green" WELCOME "$red###########################"
 echo
 echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green"."$yellow"Tebas Index"$cyan
 echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green"."$yellow"Web Scan"$cyan
