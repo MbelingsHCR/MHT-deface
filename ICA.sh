@@ -11,7 +11,7 @@ echo
 echo
 echo
 echo
-toilet -f future "        Defacer Tools" | lolcat
+toilet -f future "  Defacer Tools" | lolcat
 echo
 echo $white "╭─"$yellow"WELLCOME TO MY TOOLS"$cyan" ~/Masukan Username Anda Di Bawah!!!"$white
 read -p " ╰─$ " kontol
@@ -22,11 +22,8 @@ echo
 echo
 echo
 echo
+echo
 echo $red"##########################$green" WELCOME "$red###########################"
-echo
-toilet -f future "$kontol" | lolcat
-echo
-echo $red"#########################$green" Chemod777 "$red##########################"
 echo $yellow
 figlet -f future "Indonesian Cyber Army"
 echo
