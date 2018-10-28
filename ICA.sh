@@ -98,6 +98,8 @@ gem install figlet
 clear
 gem install lolcat
 clear
+pkg install curl
+clear
 echo
 echo
 echo
@@ -117,4 +119,4 @@ echo
 toilet -f future " Wellcome to my tools" | lolcat
 sleep 5
 clear
-sh Chemod777
+sh 77
