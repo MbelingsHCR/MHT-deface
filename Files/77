@@ -28,7 +28,7 @@ echo
 echo
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
-echo $yellow
+echo
 figlet -f future "Indonesian Cyber Army" | lolcat
 echo
 echo $red"##########################$green" WELCOME "$red###########################"
