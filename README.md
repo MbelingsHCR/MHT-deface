@@ -30,10 +30,14 @@ sh ICA.sh
 *Info*
 ====
 
+***Tools***  :
+
+           Defacer-Tools
+           Metode Webdav Curl -T
  
 ***Site***   : 
            
-           http://generasicyberindo.blogspot.com
+           www.indo-cyber.zone.id
            
 ***Github***   :
            
