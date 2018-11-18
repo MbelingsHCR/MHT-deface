@@ -34,8 +34,12 @@ echo
 echo $red"               Ngeyel sih lu jadi orang bngsat!"
 sleep 2
 echo
-sleep 2
+sleep 1
 echo $red"          Mending lu mati aja sonoh njing gantung diri"
+echo
+echo
+echo
+echo
 exit
 echo
 echo
