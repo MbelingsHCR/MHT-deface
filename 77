@@ -45,9 +45,9 @@ echo $indigo"  +"$cyan"{"$white"T"$cyan"}"$white"."$green"TUTORIAL & LIVE TARGET
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $indigo"=============================================================="
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/$kontol"$white
-read -p " ╰─$ "  apaan
+read -p " ╰─$ "  memek
 echo
-if [ $apaan = "01" ] || [ $apaan = "1" ]
+if [ $memek = "01" ] || [ $memek = "1" ]
 then
 echo
 echo
@@ -94,7 +94,7 @@ echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Qui
 read -p "[B/Q] : " back
 fi
 
-if [ $apaan = "02" ] || [ $apaan = "2" ]
+if [ $memek = "02" ] || [ $memek = "2" ]
 then
 echo
 echo
@@ -110,7 +110,7 @@ echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Qui
 read -p "[B/Q] : " back
 fi
 
-if [ $apaan = "03" ] || [ $apaan = "3" ]
+if [ $memek = "03" ] || [ $memek = "3" ]
 then
 clear
 echo
@@ -205,7 +205,7 @@ fi
 
 
 
-if [ $apaan = "04" ] || [ $apaan = "4" ]
+if [ $memek = "04" ] || [ $memek = "4" ]
 then
 echo
 echo
@@ -223,7 +223,7 @@ fi
 
 
 
-if [ $apaan = "05" ] || [ $apaan = "5" ]
+if [ $memek = "05" ] || [ $memek = "5" ]
 then
 clear
 echo
@@ -248,7 +248,7 @@ fi
 
 
 
-if [ $apaan = "I" ] || [ $apaan = "i" ]
+if [ $memek = "I" ] || [ $memek = "i" ]
 then
 echo
 echo
@@ -269,6 +269,15 @@ echo
 echo $cyan"[+] MR.NAGON_TA7 & KOKO "
 echo $cyan"[+] MR.W3B_XIT "
 echo $cyan"[+] MR.L3RBI & All Member [I.C.A] "
+echo
+echo $red   "                     THANKS TO MY FRIEND:"
+echo
+echo $cyan"[+] 0MEST
+echo $cyan"[+] DakoChan
+echo $cyan"[+] Ro0T_N3T
+echo $cyan"[+] MR.B4H4
+echo
+echo "Aceh Cyber Team,Subang Cyber Team,Indonesian Cyber Army,Phobia Exploit" | lolcat
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $indigo"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
@@ -276,7 +285,7 @@ echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Qui
 read -p "[B/Q] " back
 fi
 
-if [ $apaan = "T" ] || [ $apaan = "t" ]
+if [ $memek = "T" ] || [ $memek = "t" ]
 then
 cat tutorial.txt
 echo
