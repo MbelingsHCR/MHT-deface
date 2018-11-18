@@ -13,9 +13,37 @@ echo
 echo
 toilet -f future "    Defacer Tools" | lolcat
 echo
-echo $white "╭─"$yellow"WELLCOME TO MY TOOLS"$cyan" ~/Masukan Username Anda Di Bawah!!!"$white
+echo $white "╭─"$yellow"WELLCOME TO MY TOOLS"$cyan" ~/Masukan Nama/Nick Anda Di Bawah!!!"$white
 read -p " ╰─$ " kontol
+echo
+echo
+echo
+echo
+echo
+if [ $kontol =  ] || [ $kontol =  ]
+then
 clear
+echo
+echo
+echo
+echo
+echo
+echo $red"        Kan udah gue bilang isi dengan nama/nick lu njing!"
+sleep 1
+echo
+echo $red"               Ngeyel sih lu jadi orang bngsat!"
+sleep 2
+echo
+sleep 2
+echo $red"          Mending lu mati aja sonoh njing gantung diri"
+exit
+echo
+echo
+echo
+echo
+fi
+clear
+echo
 echo
 echo
 echo
