@@ -122,8 +122,8 @@ curl -T /storage/emulated/0/$script $target
 echo $cyan"     ["$green"+"$cyan"]"$red"==="$white"＞"$green"$target"
 echo
 echo
-echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
-read -p "[B/Q] : " back
+echo $red"["$yellow"B"$red"]"$white"back "$red"["$cyan"Q"$red"]"$green"Quit"
+read -p "[B/Q] " bangsat
 fi
 
 if [ $memek = "02" ] || [ $memek = "2" ]
@@ -138,8 +138,8 @@ echo
 cd Files
 php kamu.php
 echo
-echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
-read -p "[B/Q] : " back
+echo $red"["$yellow"B"$red"]"$white"back "$red"["$cyan"Q"$red"]"$green"Quit"
+read -p "[B/Q] " bangsat
 fi
 
 if [ $memek = "03" ] || [ $memek = "3" ]
@@ -230,8 +230,8 @@ echo $red"Kalo berhasil ke tebas akses url sperti biasa"
 echo $green"Tapi kalo tidak berhasil ke tebas pakai nama SC di belakangnya"
 echo $yellow"Contoh: http://target.com/Chemod777.html"
 echo
-echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
-read -p "[B/Q] : " back
+echo $red"["$yellow"B"$red"]"$white"back "$red"["$cyan"Q"$red"]"$green"Quit"
+read -p "[B/Q] " bangsat
 fi
 
 
@@ -249,8 +249,8 @@ echo
 cd Files
 sh install
 echo
-echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
-read -p "[B/Q] : " back
+echo $red"["$yellow"B"$red"]"$white"back "$red"["$cyan"Q"$red"]"$green"Quit"
+read -p "[B/Q] " bangsat
 fi
 
 
@@ -274,8 +274,8 @@ echo
 echo $green"Nama SC index.html Cari di memory internal!!!"
 echo
 echo
-echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
-read -p "[B/Q] : " back
+echo $red"["$yellow"B"$red"]"$white"back "$red"["$cyan"Q"$red"]"$green"Quit"
+read -p "[B/Q] " bangsat
 fi
 
 
@@ -312,8 +312,8 @@ echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $indigo"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
-echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
-read -p "[B/Q] " back
+echo $red"["$yellow"B"$red"]"$white"back "$red"["$cyan"Q"$red"]"$green"Quit"
+read -p "[B/Q] " bangsat
 fi
 
 if [ $memek = "T" ] || [ $memek = "t" ]
@@ -324,7 +324,7 @@ echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Qui
 read -p "[B/Q] " back
 fi
 
-if [ $apaan = "Q" ] || [ $apaan = "q" ]
+if [ $memek = "Q" ] || [ $memek = "q" ]
 then
 echo $red " Terimakasih $kontol Sudah Menggunakan Tools Kami :) "
 exit
@@ -332,12 +332,12 @@ clear
 fi
 
 
-if [ $back = "B" ] || [ $back = "b" ]
+if [ $bangsat = "B" ] || [ $bangsat = "b" ]
 then
 sh 77
 fi
 
-if [ $back = "Q" ] || [ $back = "q" ]
+if [ $bangsat = "Q" ] || [ $bangsat = "q" ]
 then
 echo $red " Terimakasih $kontol Sudah Menggunakan Tools Kami :) "
 exit
