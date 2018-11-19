@@ -122,7 +122,7 @@ curl -T /storage/emulated/0/$script $target
 echo $cyan"     ["$green"+"$cyan"]"$red"==="$white"＞"$green"$target"
 echo
 echo
-echo $red"["$yellow"B"$red"]"$white"back "$red"["$cyan"Q"$red"]"$green"Quit"
+echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
 read -p "[B/Q] " bangsat
 fi
 
@@ -138,7 +138,7 @@ echo
 cd Files
 php kamu.php
 echo
-echo $red"["$yellow"B"$red"]"$white"back "$red"["$cyan"Q"$red"]"$green"Quit"
+echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
 read -p "[B/Q] " bangsat
 fi
 
@@ -230,7 +230,7 @@ echo $red"Kalo berhasil ke tebas akses url sperti biasa"
 echo $green"Tapi kalo tidak berhasil ke tebas pakai nama SC di belakangnya"
 echo $yellow"Contoh: http://target.com/Chemod777.html"
 echo
-echo $red"["$yellow"B"$red"]"$white"back "$red"["$cyan"Q"$red"]"$green"Quit"
+echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
 read -p "[B/Q] " bangsat
 fi
 
@@ -249,7 +249,7 @@ echo
 cd Files
 sh install
 echo
-echo $red"["$yellow"B"$red"]"$white"back "$red"["$cyan"Q"$red"]"$green"Quit"
+echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
 read -p "[B/Q] " bangsat
 fi
 
@@ -274,7 +274,7 @@ echo
 echo $green"Nama SC index.html Cari di memory internal!!!"
 echo
 echo
-echo $red"["$yellow"B"$red"]"$white"back "$red"["$cyan"Q"$red"]"$green"Quit"
+echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
 read -p "[B/Q] " bangsat
 fi
 
@@ -312,7 +312,7 @@ echo
 echo $red"##########################$green" WELCOME "$red###########################"
 echo $indigo"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
-echo $red"["$yellow"B"$red"]"$white"back "$red"["$cyan"Q"$red"]"$green"Quit"
+echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
 read -p "[B/Q] " bangsat
 fi
 
@@ -320,8 +320,8 @@ if [ $memek = "T" ] || [ $memek = "t" ]
 then
 cat tutorial.txt
 echo
-echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
-read -p "[B/Q] " back
+echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
+read -p "[B/Q] " bangsat
 fi
 
 if [ $memek = "Q" ] || [ $memek = "q" ]
