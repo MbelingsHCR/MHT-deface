@@ -70,8 +70,8 @@ echo $indigo"        ~"$cyan"{"$white"02"$cyan"}"$green"."$yellow"Web Scan"$cyan
 echo $indigo"	~"$cyan"{"$white"03"$cyan"}"$green"."$yellow"Auto Deface"$cyan
 echo $indigo"	~"$cyan"{"$white"04"$cyan"}"$green"."$yellow"Tools Installer"$cyan
 echo $indigo"	~"$cyan"{"$white"05"$cyan"}"$green"."$yellow"Bikin Script Deface"$cyan
-echo $indigo" ~"$cyan"{"$white"06"$cyan"}"$green"."$yellow"Shell Finder"$cyan
-echo 
+echo $indigo"        ~"$cyan"{"$white"06"$cyan"}"$green"."$yellow"Shell Finder"$cyan
+echo
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
 echo $indigo"  +"$cyan"{"$white"T"$cyan"}"$white"."$green"TUTORIAL & LIVE TARGET"$indigo"      +"$cyan"{"$white"I"$cyan"}"$green"Info"$indigo"      +"$cyan"{"$white"Q"$cyan"}"$green"Quit"$cyan
