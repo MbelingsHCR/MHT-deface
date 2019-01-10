@@ -70,6 +70,7 @@ echo $indigo"        ~"$cyan"{"$white"02"$cyan"}"$green"."$yellow"Web Scan"$cyan
 echo $indigo"	~"$cyan"{"$white"03"$cyan"}"$green"."$yellow"Auto Deface"$cyan
 echo $indigo"	~"$cyan"{"$white"04"$cyan"}"$green"."$yellow"Tools Installer"$cyan
 echo $indigo"	~"$cyan"{"$white"05"$cyan"}"$green"."$yellow"Bikin Script Deface"$cyan
+echo $indigo"        ~"$cyan"{"$white"06"$cyan"}"$green"."$yellow"Shell Finder"$cyan
 echo
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
@@ -323,6 +324,22 @@ fi
 if [ $memek = "T" ] || [ $memek = "t" ]
 then
 cat tutorial.txt
+echo
+echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
+read -p "[B/Q] " bangsat
+fi
+
+if [ $memek = "06" ] || [ $memek = "6" ]
+then
+clear
+echo
+echo
+echo
+echo
+echo
+echo
+cd Files
+sh shell
 echo
 echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
 read -p "[B/Q] " bangsat
