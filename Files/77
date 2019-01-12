@@ -125,7 +125,7 @@ echo
 echo
 echo $red"Kalo berhasil ke tebas akses url sperti biasa"
 echo $green"Tapi kalo tidak berhasil ke tebas pakai nama SC di belakangnya"
-echo $yellow"Contoh: http://target.com/$script"
+echo $white"Contoh:"$yellow" $target/$script"
 echo
 echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
 read -p "[B/Q] " bangsat
