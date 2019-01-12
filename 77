@@ -125,7 +125,7 @@ echo
 echo
 echo $red"Kalo berhasil ke tebas akses url sperti biasa"
 echo $green"Tapi kalo tidak berhasil ke tebas pakai nama SC di belakangnya"
-echo $yellow"Contoh: http://target.com/$kontol.html"
+echo $yellow"Contoh: http://target.com/$script"
 echo
 echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
 read -p "[B/Q] " bangsat
@@ -233,7 +233,7 @@ echo $cyan"     ["$green"+"$cyan"]"$red"==="$white"＞"$green"$target10"
 echo
 echo $red"Kalo berhasil ke tebas akses url sperti biasa"
 echo $green"Tapi kalo tidak berhasil ke tebas pakai nama SC di belakangnya"
-echo $yellow"Contoh: http://target.com/$kontol.html"
+echo $yellow"Contoh: http://target.com/$script"
 echo
 echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
 read -p "[B/Q] " bangsat
@@ -297,7 +297,7 @@ echo
 echo
 toilet -f future "   Informasi Tools" | lolcat
 echo $red"##########################$green" WELCOME "$red###########################"
-echo $green"Author     "$white":"$cyan" Chemod_zrd404			"
+echo $green"Author     "$white":"$cyan" Chemod-77			"
 echo $green"Gthub      "$white":"$cyan" https://github.com/21D4N404"
 echo $green"Website    "$white":"$cyan" www.indo-cyber.zone.id"
 echo
