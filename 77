@@ -80,6 +80,7 @@ echo $indigo"=============================================================="
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/$kontol"$white
 read -p " ╰─$ "  memek
 echo
+
 if [ $memek = "01" ] || [ $memek = "1" ]
 then
 echo
@@ -347,7 +348,7 @@ fi
 
 if [ $memek = "Q" ] || [ $memek = "q" ]
 then
-echo $red " Terimakasih $kontol Sudah Menggunakan Tools Kami :) "
+echo $red " Terimakasih $kontol Sudah Menggunakan Tools Kami "
 exit
 clear
 fi
