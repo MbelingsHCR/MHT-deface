@@ -78,7 +78,7 @@ echo $indigo"  +"$cyan"{"$white"T"$cyan"}"$white"."$green"TUTORIAL & LIVE TARGET
 echo $red"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo $indigo"=============================================================="
 echo $white "╭─"$yellow"Chemod@zrd404"$cyan" ~/$kontol"$white
-read -p " ╰─$ "  memek
+read -p " ╰─$ " memek
 echo
 
 if [ $memek = "01" ] || [ $memek = "1" ]
@@ -361,7 +361,7 @@ fi
 
 if [ $bangsat = "Q" ] || [ $bangsat = "q" ]
 then
-echo $red " Terimakasih $kontol Sudah Menggunakan Tools Kami :) "
+echo $red " Terimakasih $kontol Sudah Menggunakan Tools Kami "
 exit
 clear
 fi
