@@ -7,9 +7,25 @@ $ cd Defacer
 $ bash install.sh
 
 fitur yang tersedia :
-~A.Tebas Index
-~B.Web Scan
-~C.Auto Deface
+~01.Tebas Index
+~02.Web Scan
+~03.Auto Deface
+~04.Tools Installer
+~05.Bikin SC Deface
+~06. Shell Finder
+
+Fungsi Tools Defacer:
+1). Tebas Index (Berfungsi untuk Deface halaman depan website secara langsung)
+
+2). Web Scan (Berfungsi untuk mengetahui informasi website seperti alamat IP,subdomain,vuln sqli,Dll)
+
+3). Auto Deface (Berfungsi untuk men Deface website secara otomatis sebanyak 10 website lebih)
+
+4). Tools Installer (Alat penyedia install secara otomatis beberapa alat hacking dengan cara yg instan)
+
+5). Bikin Script Deface (Berfungsi untuk membuat script Deface dengan mudah dan simple di Termux)
+
+6). Shell Finder (Berfungsi untuk mencari sebuah akses shell backdor orang lain dengan menggunakan metode Brute Force)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -17,9 +33,11 @@ CARA PAKAI :
 
 
 
-~{A}.Tebas Index
+~ {01}.Tebas Index
 
-~01. Dork:
+TUTORIAL :
+
+Dork di google dengan dorking yg sudah saya sediakan
 
 intitle:”index.of” intext:”(Win32) DAV/2″ intext:”Apache” 
 
@@ -42,7 +60,7 @@ inurl:.org.x/*.asp
 dork masih banyak lagi
 cari di google kimak :v
 
--02. lalu cari web nyah dengan dork tadi di mbah google :v
+Lalu cari web nyah dengan dork tadi di mbah google :v
 
 lalu kalian buka tools Defacer nyah
 
@@ -92,7 +110,7 @@ http://tressor.co.za
 
 
 
-~{B}.Web Scan
+~ {02}.Web Scan
 
 Web Scan adalah tools yg berfungsi untuk mencari kelemahan sebuah website seperti server,ip,domain,dll
 
@@ -106,7 +124,7 @@ kemudian pilih 1 atau 2
 
 
 
-~{C}.AUTO DEFACE 20
+~ {03}.AUTO DEFACE 20
 
 Yg ini sama dengan yg No: 1 cuma bedanya yg ini Deface 20 website secara bersamaan
 Cara menggunakannya
@@ -122,3 +140,10 @@ Kemudian Masukan SC deface kalian, Setelah itu di suruh memasukan target, kalian
 
 Mohon maaf bila ada kesalahan atau kekurangan😂
 
+
+~ [04].Tools Installer
+kalo tools installer dah tau lah ya fungsinya buat apaan gausah di jelasin sape ngetik aing :'v
+
+
+Untuk lebih jelasnya lagi kalian bisa baca-baca artikel dari website saya
+www.cyber-teach.zone.id
