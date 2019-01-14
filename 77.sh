@@ -349,7 +349,8 @@ fi
 
 if [ $memek = "Q" ] || [ $memek = "q" ]
 then
-echo $red " Terimakasih $kontol Sudah Menggunakan Tools Kami "
+echo
+echo $red " Good Bye.... "
 exit
 fi
 
@@ -361,6 +362,7 @@ fi
 
 if [ $bangsat = "Q" ] || [ $bangsat = "q" ]
 then
-echo $red " Terimakasih $kontol Sudah Menggunakan Tools Kami "
+echo
+echo $red " Good Bye.... "
 exit
 fi
