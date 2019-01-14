@@ -1,4 +1,4 @@
-![Defacer](https://www.imageupload.co.uk/images/2018/09/06/Screenshot_20180906-070708.jpg)
+![Defacer](https://github.com/21D4N404/Defacer/blob/master/Files/Screenshot_20190114-092344.jpg)
 
 
 Cara Install
