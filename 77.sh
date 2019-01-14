@@ -11,7 +11,7 @@ echo
 echo
 echo
 echo
-toilet -f future "    Defacer Tools" | lolcat
+figlet -f future "    Defacer Tools" | lolcat
 echo
 echo $white "╭─"$yellow"WELLCOME TO MY TOOLS"$cyan" ~/Masukan Nama/Nick Anda Di Bawah!!!"$white
 read -p " ╰─$ " kontol
@@ -20,7 +20,7 @@ echo
 echo
 echo
 echo
-if [ $kontol =  ] || [ $kontol =  ]
+if [ $kontol =  ]
 then
 clear
 echo
@@ -46,6 +46,7 @@ echo
 echo
 echo
 fi
+
 clear
 echo
 echo
@@ -59,11 +60,11 @@ echo
 echo
 echo
 echo
-echo $red"##########################$green" WELCOME "$red###########################"
+echo $red"##########################"$green" WELCOME "$red"###########################"
 echo
 figlet -f future "Indonesian Cyber Army" | lolcat
 echo
-echo $red"##########################$green" WELCOME "$red###########################"
+echo $red"##########################"$green" WELCOME "$red"###########################"
 echo
 echo $indigo"	~"$cyan"{"$white"01"$cyan"}"$green"."$yellow"Tebas Index"$cyan
 echo $indigo"        ~"$cyan"{"$white"02"$cyan"}"$green"."$yellow"Web Scan"$cyan
@@ -234,7 +235,7 @@ echo $cyan"     ["$green"+"$cyan"]"$red"==="$white"＞"$green"$target10"
 echo
 echo $red"Kalo berhasil ke tebas akses url sperti biasa"
 echo $green"Tapi kalo tidak berhasil ke tebas pakai nama SC di belakangnya"
-echo $white"Contoh:$yellow" target.com/$script"
+echo $white"Contoh:"$yellow" target.com/$script"
 echo
 echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
 read -p "[B/Q] " bangsat
@@ -296,8 +297,8 @@ echo
 echo
 echo
 echo
-toilet -f future "   Informasi Tools" | lolcat
-echo $red"##########################$green" WELCOME "$red###########################"
+figlet -f future "   Informasi Tools" | lolcat
+echo $red"##########################"$green" WELCOME "$red"###########################"
 echo $green"Author     "$white":"$cyan" Chemod-77			"
 echo $green"Gthub      "$white":"$cyan" https://github.com/21D4N404"
 echo $green"Website    "$white":"$cyan" www.indo-cyber.zone.id"
@@ -315,7 +316,7 @@ echo $cyan"[+] DakoChan"
 echo $cyan"[+] Ro0T_N3T"
 echo $cyan"[+] MR.B4H4"
 echo
-echo $red"##########################$green" WELCOME "$red###########################"
+echo $red"##########################"$green" WELCOME "$red"###########################"
 echo $indigo"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
 echo
 echo $indigo"["$red"B"$indigo"]"$white"back "$indigo"["$red"Q"$indigo"]"$white"Quit"
