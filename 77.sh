@@ -289,10 +289,11 @@ fi
 
 if [ $memek = "I" ] || [ $memek = "i" ]
 then
-echo
-echo
-echo
 clear
+echo
+echo
+echo
+echo
 echo
 echo
 echo
